@@ -1,0 +1,768 @@
+,,,,nation,pos,age,born,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes
+,,,,,,,,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
+league,season,team,player,,,,,,,,,,,,,,,,,,,,,
+ENG-Championship,2425,Blackburn,Adam Forshaw,ENG,MF,32,1991,16,5,563,6.3,1,0,1,1,0,0,2,0,0.16,0.0,0.16,0.16,0.16
+ENG-Championship,2425,Blackburn,Amario Cozier-Duberry,ENG,MF,19,2005,22,6,723,8.0,1,0,1,1,0,0,0,0,0.12,0.0,0.12,0.12,0.12
+ENG-Championship,2425,Blackburn,Andreas Weimann,AUT,MF,32,1991,30,15,1411,15.7,7,2,9,7,0,0,2,0,0.45,0.13,0.57,0.45,0.57
+ENG-Championship,2425,Blackburn,Arnór Sigurðsson,ISL,"FW,MF",25,1999,5,0,62,0.7,1,0,1,1,0,0,0,0,1.45,0.0,1.45,1.45,1.45
+ENG-Championship,2425,Blackburn,Augustus Kargbo,SLE,MF,24,1999,8,2,186,2.1,0,1,1,0,0,0,0,0,0.0,0.48,0.48,0.0,0.48
+ENG-Championship,2425,Blackburn,Aynsley Pears,ENG,GK,26,1998,40,40,3600,40.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Blackburn,Balázs Tóth,HUN,GK,26,1997,6,6,540,6.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Blackburn,Callum Brittain,ENG,DF,26,1998,33,30,2659,29.5,2,5,7,2,0,0,5,0,0.07,0.17,0.24,0.07,0.24
+ENG-Championship,2425,Blackburn,Cauley Woodrow,ENG,MF,29,1994,9,2,222,2.5,0,1,1,0,0,0,0,0,0.0,0.41,0.41,0.0,0.41
+ENG-Championship,2425,Blackburn,Danny Batth,ENG,DF,33,1990,37,34,3009,33.4,2,0,2,2,0,0,5,0,0.06,0.0,0.06,0.06,0.06
+ENG-Championship,2425,Blackburn,Dion Sanderson,ENG,DF,24,1999,12,4,567,6.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Blackburn,Dominic Hyam,SCO,DF,28,1995,46,46,4140,46.0,2,2,4,2,0,0,5,0,0.04,0.04,0.09,0.04,0.09
+ENG-Championship,2425,Blackburn,Emmanuel Dennis,NGA,MF,26,1997,6,1,160,1.8,0,1,1,0,0,0,3,1,0.0,0.56,0.56,0.0,0.56
+ENG-Championship,2425,Blackburn,Harry Leonard,ENG,FW,20,2003,9,0,149,1.7,1,0,1,1,0,0,0,0,0.6,0.0,0.6,0.6,0.6
+ENG-Championship,2425,Blackburn,Harry Pickering,ENG,DF,25,1998,15,12,1039,11.5,0,1,1,0,0,0,2,0,0.0,0.09,0.09,0.0,0.09
+ENG-Championship,2425,Blackburn,Hayden Carter,ENG,DF,24,1999,16,16,1363,15.1,0,1,1,0,0,0,5,0,0.0,0.07,0.07,0.0,0.07
+ENG-Championship,2425,Blackburn,Igor Tyjon,ENG,FW,16,2008,2,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Blackburn,Joe Rankin-Costello,ENG,"DF,MF",25,1999,29,13,1249,13.9,2,2,4,2,0,0,4,0,0.14,0.14,0.29,0.14,0.29
+ENG-Championship,2425,Blackburn,John Buckley,ENG,MF,24,1999,23,8,855,9.5,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Blackburn,Kristi Montgomery,SCO,DF,20,2004,3,1,137,1.5,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Blackburn,Kyle McFadzean,SCO,DF,37,1987,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Blackburn,Leo Duru,ENG,DF,19,2005,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Blackburn,Lewis Baker,ENG,MF,29,1995,13,7,596,6.6,1,0,1,1,0,0,2,0,0.15,0.0,0.15,0.15,0.15
+ENG-Championship,2425,Blackburn,Lewis Travis,ENG,MF,26,1997,38,37,3216,35.7,2,1,3,2,0,0,11,0,0.06,0.03,0.08,0.06,0.08
+ENG-Championship,2425,Blackburn,Makhtar Gueye,SEN,FW,26,1997,44,23,2193,24.4,6,6,12,6,0,0,10,1,0.25,0.25,0.49,0.25,0.49
+ENG-Championship,2425,Blackburn,Owen Beck,WAL,"DF,MF",21,2002,24,21,1874,20.8,1,0,1,1,0,0,3,1,0.05,0.0,0.05,0.05,0.05
+ENG-Championship,2425,Blackburn,Ryan Hedges,WAL,MF,29,1995,42,33,2561,28.5,1,2,3,1,0,0,4,0,0.04,0.07,0.11,0.04,0.11
+ENG-Championship,2425,Blackburn,Sammie Szmodics,IRL,"FW,MF",28,1995,1,0,26,0.3,1,1,2,1,0,0,0,0,3.46,3.46,6.92,3.46,6.92
+ENG-Championship,2425,Blackburn,Sondre Tronstad,NOR,MF,28,1995,38,36,3130,34.8,2,0,2,2,0,0,5,0,0.06,0.0,0.06,0.06,0.06
+ENG-Championship,2425,Blackburn,Todd Cantwell,ENG,MF,26,1998,37,27,2479,27.5,3,7,10,1,2,2,6,0,0.11,0.25,0.36,0.04,0.29
+ENG-Championship,2425,Blackburn,Tyrhys Dolan,ENG,MF,22,2001,44,40,3175,35.3,7,6,13,6,1,1,12,0,0.2,0.17,0.37,0.17,0.34
+ENG-Championship,2425,Blackburn,Yuki Ohashi,JPN,"FW,MF",28,1996,36,26,2221,24.7,9,3,12,9,0,0,3,0,0.36,0.12,0.49,0.36,0.49
+ENG-Championship,2425,Blackburn,Yuri Ribeiro,POR,DF,27,1997,15,15,1350,15.0,0,1,1,0,0,0,0,0,0.0,0.07,0.07,0.0,0.07
+ENG-Championship,2425,Bristol City,Anis Mehmeti,ALB,"MF,FW",23,2001,42,29,2558,28.4,12,1,13,10,2,2,3,0,0.42,0.04,0.46,0.35,0.39
+ENG-Championship,2425,Bristol City,Cameron Pring,ENG,"DF,MF",26,1998,32,27,2228,24.8,0,3,3,0,0,0,8,0,0.0,0.12,0.12,0.0,0.12
+ENG-Championship,2425,Bristol City,Elijah Morrison,ENG,MF,18,2006,3,0,39,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Bristol City,Fally Mayulu,FRA,FW,22,2002,15,3,402,4.5,2,0,2,2,0,0,0,0,0.45,0.0,0.45,0.45,0.45
+ENG-Championship,2425,Bristol City,George Earthy,ENG,"MF,FW",19,2004,37,11,1457,16.2,3,1,4,3,0,0,3,0,0.19,0.06,0.25,0.19,0.25
+ENG-Championship,2425,Bristol City,George Tanner,ENG,"DF,MF",24,1999,32,23,2002,22.2,2,0,2,2,0,0,2,0,0.09,0.0,0.09,0.09,0.09
+ENG-Championship,2425,Bristol City,Harry Cornick,ENG,"FW,MF",29,1995,3,0,38,0.4,1,0,1,1,0,0,0,0,2.37,0.0,2.37,2.37,2.37
+ENG-Championship,2425,Bristol City,Haydon Roberts,ENG,"MF,DF",22,2002,30,15,1635,18.2,1,1,2,1,0,0,5,0,0.06,0.06,0.11,0.06,0.11
+ENG-Championship,2425,Bristol City,Jason Knight,IRL,MF,23,2001,46,46,4140,46.0,3,6,9,3,0,0,6,0,0.07,0.13,0.2,0.07,0.2
+ENG-Championship,2425,Bristol City,Joe Williams,ENG,MF,27,1996,24,18,1417,15.7,0,4,4,0,0,0,6,1,0.0,0.25,0.25,0.0,0.25
+ENG-Championship,2425,Bristol City,Kal Naismith,SCO,DF,32,1992,6,2,286,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Bristol City,Luke McNally,IRL,DF,24,1999,26,26,2322,25.8,3,1,4,3,0,0,5,0,0.12,0.04,0.16,0.12,0.16
+ENG-Championship,2425,Bristol City,Marcus McGuane,ENG,MF,25,1999,21,11,1063,11.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Bristol City,Mark Sykes,IRL,MF,26,1997,27,21,1707,19.0,3,4,7,3,0,0,5,0,0.16,0.21,0.37,0.16,0.37
+ENG-Championship,2425,Bristol City,Max Bird,ENG,MF,23,2000,46,43,3481,38.7,1,8,9,1,0,0,1,0,0.03,0.21,0.23,0.03,0.23
+ENG-Championship,2425,Bristol City,Max O'Leary,IRL,GK,27,1996,46,46,4140,46.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Bristol City,Nahki Wells,BER,FW,34,1990,39,26,2052,22.8,10,4,14,9,1,1,3,0,0.44,0.18,0.61,0.39,0.57
+ENG-Championship,2425,Bristol City,Robert Dickie,ENG,DF,28,1996,36,35,3121,34.7,2,1,3,2,0,0,5,1,0.06,0.03,0.09,0.06,0.09
+ENG-Championship,2425,Bristol City,Ross McCrorie,SCO,"MF,DF",26,1998,23,18,1475,16.4,5,0,5,5,0,0,10,1,0.31,0.0,0.31,0.31,0.31
+ENG-Championship,2425,Bristol City,Sam Bell,ENG,"FW,MF",22,2002,20,0,440,4.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Bristol City,Scott Twine,ENG,"MF,FW",25,1999,35,26,2119,23.5,5,3,8,5,0,0,6,0,0.21,0.13,0.34,0.21,0.34
+ENG-Championship,2425,Bristol City,Sinclair Armstrong,IRL,FW,21,2003,36,17,1555,17.3,3,0,3,3,0,0,1,0,0.17,0.0,0.17,0.17,0.17
+ENG-Championship,2425,Bristol City,Yu Hirakawa,JPN,MF,23,2001,36,17,1657,18.4,2,2,4,2,0,0,0,0,0.11,0.11,0.22,0.11,0.22
+ENG-Championship,2425,Bristol City,Zak Vyner,KEN,DF,27,1997,46,46,4140,46.0,1,0,1,1,0,0,3,0,0.02,0.0,0.02,0.02,0.02
+ENG-Championship,2425,Burnley,Aaron Ramsey,ENG,MF,21,2003,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Anass Zaroury,MAR,"FW,MF",23,2000,1,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Andreas Hountondji,BEN,"MF,FW",22,2002,9,2,209,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Ashley Barnes,ENG,FW,34,1989,13,1,134,1.5,1,1,2,1,0,0,1,0,0.67,0.67,1.34,0.67,1.34
+ENG-Championship,2425,Burnley,Bashir Humphreys,ENG,DF,21,2003,25,20,1777,19.7,1,2,3,1,0,0,3,1,0.05,0.1,0.15,0.05,0.15
+ENG-Championship,2425,Burnley,Benson Manuel,ANG,"FW,MF",27,1997,3,0,46,0.5,1,0,1,1,0,0,1,0,1.96,0.0,1.96,1.96,1.96
+ENG-Championship,2425,Burnley,CJ Egan-Riley,ENG,DF,21,2003,41,40,3601,40.0,1,1,2,1,0,0,7,1,0.02,0.02,0.05,0.02,0.05
+ENG-Championship,2425,Burnley,Connor Roberts,WAL,DF,28,1995,41,40,3636,40.4,2,3,5,2,0,0,4,0,0.05,0.07,0.12,0.05,0.12
+ENG-Championship,2425,Burnley,Dara O'Shea,IRL,DF,25,1999,2,2,180,2.0,1,0,1,1,0,0,0,0,0.5,0.0,0.5,0.5,0.5
+ENG-Championship,2425,Burnley,Enock Agyei,BEL,FW,19,2005,3,0,58,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Han-Noah Massengo,FRA,MF,23,2001,8,1,97,1.1,0,1,1,0,0,0,1,0,0.0,0.93,0.93,0.0,0.93
+ENG-Championship,2425,Burnley,Hannibal Mejbri,TUN,MF,21,2003,37,23,1924,21.4,1,4,5,1,0,0,8,1,0.05,0.19,0.23,0.05,0.23
+ENG-Championship,2425,Burnley,Jaidon Anthony,ENG,MF,24,1999,43,42,3661,40.7,8,7,15,8,0,0,4,0,0.2,0.17,0.37,0.2,0.37
+ENG-Championship,2425,Burnley,James Trafford,ENG,GK,21,2002,45,45,4050,45.0,0,0,0,0,0,0,7,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Jay Rodriguez,ENG,FW,35,1989,20,8,747,8.3,2,0,2,1,1,1,1,0,0.24,0.0,0.24,0.12,0.12
+ENG-Championship,2425,Burnley,Jeremy Sarmiento,ECU,MF,22,2002,35,11,1166,13.0,4,0,4,4,0,0,4,0,0.31,0.0,0.31,0.31,0.31
+ENG-Championship,2425,Burnley,Joe Worrall,ENG,DF,27,1997,9,3,285,3.2,0,1,1,0,0,0,1,0,0.0,0.32,0.32,0.0,0.32
+ENG-Championship,2425,Burnley,John Egan,IRL,DF,31,1992,7,1,165,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Jonjo Shelvey,ENG,MF,32,1992,2,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Josh Brownhill,ENG,MF,28,1995,42,39,3474,38.6,18,6,24,15,3,3,5,0,0.47,0.16,0.62,0.39,0.54
+ENG-Championship,2425,Burnley,Josh Cullen,IRL,MF,28,1996,44,43,3801,42.2,2,3,5,2,0,0,11,0,0.05,0.07,0.12,0.05,0.12
+ENG-Championship,2425,Burnley,Josh Laurent,ENG,MF,29,1995,42,25,2451,27.2,2,2,4,2,0,0,4,0,0.07,0.07,0.15,0.07,0.15
+ENG-Championship,2425,Burnley,Jóhann Berg Guðmundsson,ISL,"FW,MF",33,1990,1,0,16,0.2,1,0,1,1,0,0,0,0,5.63,0.0,5.63,5.63,5.63
+ENG-Championship,2425,Burnley,Luca Koleosho,ITA,MF,19,2004,28,20,1677,18.6,2,0,2,2,0,0,4,0,0.11,0.0,0.11,0.11,0.11
+ENG-Championship,2425,Burnley,Lucas,BRA,DF,23,2001,34,32,2794,31.0,0,2,2,0,0,0,7,0,0.0,0.06,0.06,0.0,0.06
+ENG-Championship,2425,Burnley,Luke McNally,IRL,DF,24,1999,2,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Lyle Foster,RSA,"FW,MF",23,2000,28,17,1590,17.7,2,5,7,2,0,0,4,0,0.11,0.28,0.4,0.11,0.4
+ENG-Championship,2425,Burnley,Marcus Edwards,ENG,MF,25,1998,14,12,936,10.4,1,1,2,1,0,0,1,0,0.1,0.1,0.19,0.1,0.19
+ENG-Championship,2425,Burnley,Maxime Estève,FRA,DF,22,2002,46,46,4055,45.1,1,0,1,1,0,0,3,0,0.02,0.0,0.02,0.02,0.02
+ENG-Championship,2425,Burnley,Nathan Redmond,ENG,"FW,MF",30,1994,2,0,14,0.2,0,1,1,0,0,0,0,0,0.0,6.43,6.43,0.0,6.43
+ENG-Championship,2425,Burnley,Oliver Sonne,PER,DF,23,2000,2,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Shurandy Sambo,CUW,DF,22,2001,1,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Vitinho,BRA,MF,25,1999,3,3,235,2.6,1,1,2,1,0,0,0,0,0.38,0.38,0.77,0.38,0.77
+ENG-Championship,2425,Burnley,Václav Hladký,CZE,GK,33,1990,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Wilson Odobert,FRA,MF,19,2004,1,1,89,1.0,1,0,1,1,0,0,0,0,1.01,0.0,1.01,1.01,1.01
+ENG-Championship,2425,Burnley,Wout Weghorst,NED,FW,31,1992,2,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Burnley,Zeki Amdouni,SUI,"FW,MF",23,2000,2,0,35,0.4,1,0,1,1,0,0,0,0,2.57,0.0,2.57,2.57,2.57
+ENG-Championship,2425,Burnley,Zian Flemming,NED,FW,25,1998,35,28,2424,26.9,12,4,16,12,0,0,3,0,0.45,0.15,0.59,0.45,0.59
+ENG-Championship,2425,Cardiff City,Aaron Ramsey,WAL,MF,33,1990,8,6,557,6.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Alex Robertson,AUS,MF,21,2003,35,29,2409,26.8,3,3,6,3,0,0,7,0,0.11,0.11,0.22,0.11,0.22
+ENG-Championship,2425,Cardiff City,Andy Rinomhota,ZIM,"MF,DF",27,1997,30,24,2106,23.4,0,1,1,0,0,0,6,0,0.0,0.04,0.04,0.0,0.04
+ENG-Championship,2425,Cardiff City,Anwar El Ghazi,NED,"MF,FW",29,1995,25,14,1175,13.1,3,1,4,3,0,0,0,0,0.23,0.08,0.31,0.23,0.31
+ENG-Championship,2425,Cardiff City,Callum O'Dowda,IRL,"DF,MF",29,1995,42,41,3546,39.4,2,3,5,2,0,0,7,0,0.05,0.08,0.13,0.05,0.13
+ENG-Championship,2425,Cardiff City,Callum Robinson,IRL,FW,29,1995,34,24,2023,22.5,12,1,13,12,0,0,1,1,0.53,0.04,0.58,0.53,0.58
+ENG-Championship,2425,Cardiff City,Calum Chambers,ENG,"DF,MF",29,1995,41,41,3513,39.0,2,1,3,2,0,0,8,1,0.05,0.03,0.08,0.05,0.08
+ENG-Championship,2425,Cardiff City,Chris Willock,ENG,"MF,FW",26,1998,32,17,1548,17.2,2,2,4,2,0,0,0,0,0.12,0.12,0.23,0.12,0.23
+ENG-Championship,2425,Cardiff City,Cian Ashford,WAL,"MF,FW",19,2004,28,17,1522,16.9,2,3,5,2,0,0,0,0,0.12,0.18,0.3,0.12,0.3
+ENG-Championship,2425,Cardiff City,David Turnbull,SCO,MF,25,1999,19,10,826,9.2,1,0,1,1,0,1,2,0,0.11,0.0,0.11,0.11,0.11
+ENG-Championship,2425,Cardiff City,Dimitris Goutas,GRE,DF,30,1994,34,33,2919,32.4,1,1,2,1,0,0,3,1,0.03,0.03,0.06,0.03,0.06
+ENG-Championship,2425,Cardiff City,Dylan Lawlor,WAL,DF,18,2006,1,0,58,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Emmanouil Siopis,GRE,MF,30,1994,21,16,1444,16.0,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Ethan Horvath,USA,GK,29,1995,17,17,1530,17.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Isaak Davies,WAL,MF,22,2001,9,3,287,3.2,2,0,2,2,0,0,1,0,0.63,0.0,0.63,0.63,0.63
+ENG-Championship,2425,Cardiff City,Jak Alnwick,ENG,GK,31,1993,29,29,2610,29.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Jamilu Collins,NGA,DF,29,1994,3,2,165,1.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Jesper Daland,NOR,DF,24,2000,20,16,1427,15.9,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Joe Ralls,ENG,MF,30,1993,21,15,1148,12.8,0,1,1,0,0,0,6,0,0.0,0.08,0.08,0.0,0.08
+ENG-Championship,2425,Cardiff City,Joel Bagan,IRL,DF,24,2000,31,17,1612,17.9,0,1,1,0,0,0,4,1,0.0,0.06,0.06,0.0,0.06
+ENG-Championship,2425,Cardiff City,Malachi Fagan-Walcott,ENG,DF,22,2002,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Michael Reindorf,ENG,MF,19,2005,2,0,52,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Ollie Tanner,ENG,MF,22,2002,29,15,1387,15.4,2,2,4,2,0,0,1,0,0.13,0.13,0.26,0.13,0.26
+ENG-Championship,2425,Cardiff City,Perry Ng,ENG,DF,28,1996,35,31,2793,31.0,1,1,2,1,0,0,9,0,0.03,0.03,0.06,0.03,0.06
+ENG-Championship,2425,Cardiff City,Ronan Kpakio,WAL,DF,17,2007,3,1,108,1.2,0,1,1,0,0,0,0,0,0.0,0.83,0.83,0.0,0.83
+ENG-Championship,2425,Cardiff City,Rubin Colwill,WAL,"MF,FW",22,2002,43,24,2522,28.0,1,4,5,1,0,0,3,0,0.04,0.14,0.18,0.04,0.18
+ENG-Championship,2425,Cardiff City,Sivert Mannsverk,NOR,MF,22,2002,14,12,1004,11.2,0,1,1,0,0,0,4,0,0.0,0.09,0.09,0.0,0.09
+ENG-Championship,2425,Cardiff City,Tanatswa Nyakuhwa,WAL,FW,18,2005,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Wilfried Kanga,CIV,FW,26,1998,15,5,458,5.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Will Alves,ENG,"MF,FW",19,2005,14,8,667,7.4,1,3,4,1,0,0,0,0,0.13,0.4,0.54,0.13,0.54
+ENG-Championship,2425,Cardiff City,Will Fish,ENG,DF,21,2003,21,14,1376,15.3,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Cardiff City,Yakou Méïte,CIV,"MF,FW",28,1996,34,11,1201,13.3,3,0,3,3,0,0,1,0,0.22,0.0,0.22,0.22,0.22
+ENG-Championship,2425,Cardiff City,Yousef Salech,DEN,FW,22,2002,20,14,1276,14.2,8,1,9,7,1,1,2,0,0.56,0.07,0.63,0.49,0.56
+ENG-Championship,2425,Coventry City,Ben Sheaf,ENG,MF,26,1998,29,23,2130,23.7,0,2,2,0,0,0,6,0,0.0,0.08,0.08,0.0,0.08
+ENG-Championship,2425,Coventry City,Ben Wilson,ENG,GK,31,1992,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Coventry City,Bobby Thomas,ENG,DF,23,2001,38,37,3334,37.0,5,0,5,5,0,0,4,0,0.13,0.0,0.13,0.13,0.13
+ENG-Championship,2425,Coventry City,Bradley Collins,ENG,GK,27,1997,15,14,1313,14.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Coventry City,Brandon Thomas-Asante,GHA,FW,25,1998,36,14,1449,16.1,4,3,7,4,0,0,3,0,0.25,0.19,0.43,0.25,0.43
+ENG-Championship,2425,Coventry City,Ellis Simms,ENG,FW,23,2001,43,26,2286,25.4,6,2,8,6,0,1,1,0,0.24,0.08,0.31,0.24,0.31
+ENG-Championship,2425,Coventry City,Ephron Mason-Clark,JAM,"MF,FW",24,1999,30,17,1630,18.1,5,5,10,5,0,0,2,0,0.28,0.28,0.55,0.28,0.55
+ENG-Championship,2425,Coventry City,Fabio Tavares,ENG,FW,23,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Coventry City,Haji Wright,USA,"MF,FW",26,1998,27,21,1947,21.6,12,1,13,11,1,1,1,0,0.55,0.05,0.6,0.51,0.55
+ENG-Championship,2425,Coventry City,Jack Rudoni,ENG,MF,24,2000,43,40,3502,38.9,9,12,21,9,0,0,3,0,0.23,0.31,0.54,0.23,0.54
+ENG-Championship,2425,Coventry City,Jake Bidwell,ENG,"DF,MF",31,1993,29,23,2062,22.9,1,1,2,1,0,0,5,0,0.04,0.04,0.09,0.04,0.09
+ENG-Championship,2425,Coventry City,Jamie Allen,ENG,MF,29,1995,21,12,1004,11.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Coventry City,Jamie Paterson,ENG,"FW,MF",32,1991,8,0,79,0.9,1,0,1,1,0,0,1,0,1.14,0.0,1.14,1.14,1.14
+ENG-Championship,2425,Coventry City,Jay Dasilva,WAL,"DF,MF",26,1998,31,20,1807,20.1,0,1,1,0,0,0,2,1,0.0,0.05,0.05,0.0,0.05
+ENG-Championship,2425,Coventry City,Josh Eccles,ENG,MF,24,2000,39,25,2340,26.0,3,3,6,3,0,0,6,0,0.12,0.12,0.23,0.12,0.23
+ENG-Championship,2425,Coventry City,Joël Latibeaudière,JAM,DF,24,2000,33,29,2574,28.6,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Coventry City,Kasey Palmer,JAM,MF,27,1996,3,0,54,0.6,1,0,1,1,0,0,1,0,1.67,0.0,1.67,1.67,1.67
+ENG-Championship,2425,Coventry City,Liam Kitching,ENG,DF,24,1999,27,26,2284,25.4,0,1,1,0,0,0,7,0,0.0,0.04,0.04,0.0,0.04
+ENG-Championship,2425,Coventry City,Luis Binks,ENG,DF,22,2001,22,21,1852,20.6,0,1,1,0,0,0,7,0,0.0,0.05,0.05,0.0,0.05
+ENG-Championship,2425,Coventry City,Matt Grimes,ENG,MF,29,1995,16,15,1366,15.2,2,1,3,2,0,0,4,0,0.13,0.07,0.2,0.13,0.2
+ENG-Championship,2425,Coventry City,Milan van Ewijk,NED,"DF,MF",23,2000,45,45,4010,44.6,2,2,4,2,0,0,1,0,0.04,0.04,0.09,0.04,0.09
+ENG-Championship,2425,Coventry City,Norman Bassette,BEL,FW,19,2004,25,11,907,10.1,2,0,2,2,0,0,5,0,0.2,0.0,0.2,0.2,0.2
+ENG-Championship,2425,Coventry City,Oliver Dovin,SWE,GK,22,2002,28,28,2467,27.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Coventry City,Raphael Borges Rodrigues,AUS,MF,20,2003,3,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Coventry City,Tatsuhiro Sakamoto,JPN,"MF,FW",27,1996,42,30,2587,28.7,4,6,10,4,0,0,4,0,0.14,0.21,0.35,0.14,0.35
+ENG-Championship,2425,Coventry City,Victor Torp,DEN,MF,25,1999,36,25,2107,23.4,6,4,10,5,1,2,2,0,0.26,0.17,0.43,0.21,0.38
+ENG-Championship,2425,Derby County,Ben Osborn,ENG,"MF,DF",29,1994,25,18,1702,18.9,0,1,1,0,0,0,2,0,0.0,0.05,0.05,0.0,0.05
+ENG-Championship,2425,Derby County,Callum Elder,AUS,"DF,MF",29,1995,29,24,2149,23.9,0,3,3,0,0,0,8,0,0.0,0.13,0.13,0.0,0.13
+ENG-Championship,2425,Derby County,Corey Blackett-Taylor,ENG,"MF,FW",26,1997,12,4,404,4.5,1,0,1,1,0,0,1,0,0.22,0.0,0.22,0.22,0.22
+ENG-Championship,2425,Derby County,Craig Forsyth,SCO,"DF,MF",35,1989,39,26,2557,28.4,3,4,7,3,0,0,4,0,0.11,0.14,0.25,0.11,0.25
+ENG-Championship,2425,Derby County,Curtis Nelson,ENG,DF,31,1993,27,27,2430,27.0,2,1,3,2,0,0,3,0,0.07,0.04,0.11,0.07,0.11
+ENG-Championship,2425,Derby County,Dajaune Brown,JAM,FW,18,2005,15,3,387,4.3,1,0,1,1,0,0,0,0,0.23,0.0,0.23,0.23,0.23
+ENG-Championship,2425,Derby County,David Ozoh,ENG,MF,19,2005,10,9,699,7.8,1,0,1,1,0,0,0,0,0.13,0.0,0.13,0.13,0.13
+ENG-Championship,2425,Derby County,Ebou Adams,GAM,MF,28,1996,44,42,3789,42.1,6,1,7,6,0,0,12,0,0.14,0.02,0.17,0.14,0.17
+ENG-Championship,2425,Derby County,Eiran Cashin,IRL,DF,22,2001,21,21,1786,19.8,1,0,1,1,0,0,5,0,0.05,0.0,0.05,0.05,0.05
+ENG-Championship,2425,Derby County,Erik Pieters,NED,"DF,MF",35,1988,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Harrison Armstrong,ENG,MF,17,2007,15,12,1105,12.3,1,0,1,1,0,0,3,0,0.08,0.0,0.08,0.08,0.08
+ENG-Championship,2425,Derby County,Jacob Widell Zetterström,SWE,GK,26,1998,40,40,3600,40.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,James Collins,IRL,FW,33,1990,17,1,222,2.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Jerry Yates,ENG,FW,27,1996,42,40,3419,38.0,10,4,14,9,1,1,1,0,0.26,0.11,0.37,0.24,0.34
+ENG-Championship,2425,Derby County,Joe Ward,ENG,DF,28,1995,7,2,150,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Josh Vickers,ENG,GK,28,1995,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Kane Wilson,ENG,"DF,MF",24,2000,33,26,2430,27.0,2,1,3,2,0,0,0,0,0.07,0.04,0.11,0.07,0.11
+ENG-Championship,2425,Derby County,Kayden Jackson,ENG,"MF,FW",30,1994,46,28,2575,28.6,3,2,5,3,0,0,6,0,0.1,0.07,0.17,0.1,0.17
+ENG-Championship,2425,Derby County,Kemar Roofe,JAM,"FW,MF",31,1993,3,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Kenzo Goudmijn,NED,MF,22,2001,41,29,2321,25.8,2,2,4,2,0,0,4,0,0.08,0.08,0.16,0.08,0.16
+ENG-Championship,2425,Derby County,Lars-Jørgen Salvesen,NOR,FW,28,1996,8,6,488,5.4,1,0,1,1,0,0,0,0,0.18,0.0,0.18,0.18,0.18
+ENG-Championship,2425,Derby County,Lennon Wheeldon,ENG,FW,17,2006,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Liam Thompson,ENG,MF,22,2002,28,18,1610,17.9,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Marcus Harness,ENG,"MF,FW",28,1996,41,26,2356,26.2,4,3,7,4,0,0,11,0,0.15,0.11,0.27,0.15,0.27
+ENG-Championship,2425,Derby County,Matthew Clarke,ENG,DF,27,1996,16,15,1366,15.2,1,0,1,1,0,0,2,0,0.07,0.0,0.07,0.07,0.07
+ENG-Championship,2425,Derby County,Nathaniel Mendez-Laing,GUA,"MF,FW",32,1992,41,26,2098,23.3,3,4,7,2,1,1,4,0,0.13,0.17,0.3,0.09,0.26
+ENG-Championship,2425,Derby County,Nathaniel Phillips,ENG,DF,27,1997,32,24,2236,24.8,1,3,4,1,0,0,5,0,0.04,0.12,0.16,0.04,0.16
+ENG-Championship,2425,Derby County,Ryan Nyambe,NAM,"DF,MF",26,1997,17,14,1125,12.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Sondre Langås,NOR,DF,23,2001,14,13,1118,12.4,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Sonny Bradley,ENG,DF,32,1991,7,3,303,3.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Tawanda Chirewa,ZIM,MF,20,2003,5,1,151,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Tom Barkhuizen,ENG,"MF,FW",31,1993,19,2,404,4.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Derby County,Tyrese Fornah,SLE,MF,24,1999,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Abdülkadir Ömür,TUR,"MF,FW",25,1999,20,12,1064,11.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Abu Kamara,ENG,"MF,FW",21,2003,36,25,2256,25.1,5,3,8,5,0,0,1,0,0.2,0.12,0.32,0.2,0.32
+ENG-Championship,2425,Hull City,Alfie Jones,CAN,DF,26,1997,41,37,3389,37.7,0,0,0,0,0,0,8,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Bachir Belloumi,ALG,"FW,MF",22,2002,10,10,815,9.1,2,2,4,2,0,0,1,0,0.22,0.22,0.44,0.22,0.44
+ENG-Championship,2425,Hull City,Carl Rushworth,ENG,GK,23,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Charlie Hughes,ENG,DF,20,2003,27,26,2345,26.1,1,1,2,1,0,0,9,0,0.04,0.04,0.08,0.04,0.08
+ENG-Championship,2425,Hull City,Chris Bedia,CIV,FW,28,1996,21,9,921,10.2,3,0,3,2,1,1,0,0,0.29,0.0,0.29,0.2,0.2
+ENG-Championship,2425,Hull City,Cody Drameh,ENG,DF,22,2001,28,17,1649,18.3,1,1,2,1,0,0,2,0,0.05,0.05,0.11,0.05,0.11
+ENG-Championship,2425,Hull City,Eliot Matazo,BEL,MF,22,2002,6,4,300,3.3,1,0,1,1,0,0,1,0,0.3,0.0,0.3,0.3,0.3
+ENG-Championship,2425,Hull City,Finley Burns,ENG,"DF,MF",21,2003,9,4,311,3.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Gustavo Puerta,COL,MF,21,2003,30,22,1889,21.0,0,0,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Harry Vaughan,IRL,MF,20,2004,3,1,103,1.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Ivor Pandur,CRO,GK,24,2000,44,44,3960,44.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Joe Gelhardt,ENG,"MF,FW",22,2002,20,19,1593,17.7,5,0,5,3,2,2,4,0,0.28,0.0,0.28,0.17,0.17
+ENG-Championship,2425,Hull City,John Egan,IRL,DF,31,1992,11,8,730,8.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,João Pedro,ITA,FW,32,1992,35,25,2145,23.8,6,2,8,6,0,0,4,1,0.25,0.08,0.34,0.25,0.34
+ENG-Championship,2425,Hull City,Kasey Palmer,JAM,MF,27,1996,26,11,1086,12.1,1,2,3,1,0,1,2,0,0.08,0.17,0.25,0.08,0.25
+ENG-Championship,2425,Hull City,Kyle Joseph,SCO,"FW,MF",22,2001,16,13,1009,11.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Lewie Coyle,ENG,DF,28,1995,44,42,3717,41.3,1,2,3,1,0,0,6,0,0.02,0.05,0.07,0.02,0.07
+ENG-Championship,2425,Hull City,Liam Millar,CAN,"MF,FW",24,1999,11,6,619,6.9,1,2,3,1,0,0,3,0,0.15,0.29,0.44,0.15,0.44
+ENG-Championship,2425,Hull City,Lincoln,BRA,MF,25,1998,11,4,420,4.7,0,1,1,0,0,0,0,0,0.0,0.21,0.21,0.0,0.21
+ENG-Championship,2425,Hull City,Louie Barry,ENG,MF,21,2003,4,2,165,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Marvin Mehlem,GER,MF,26,1997,16,9,902,10.0,0,3,3,0,0,0,2,0,0.0,0.3,0.3,0.0,0.3
+ENG-Championship,2425,Hull City,Mason Burstow,ENG,"FW,MF",20,2003,31,8,953,10.6,2,1,3,2,0,0,1,0,0.19,0.09,0.28,0.19,0.28
+ENG-Championship,2425,Hull City,Matt Crooks,ENG,"MF,FW",30,1994,18,9,789,8.8,3,0,3,3,0,0,4,1,0.34,0.0,0.34,0.34,0.34
+ENG-Championship,2425,Hull City,Matty Jacob,ENG,DF,23,2001,8,4,447,5.0,1,0,1,1,0,0,2,0,0.2,0.0,0.2,0.2,0.2
+ENG-Championship,2425,Hull City,Nordin Amrabat,MAR,MF,37,1987,10,2,288,3.2,0,1,1,0,0,0,0,0,0.0,0.31,0.31,0.0,0.31
+ENG-Championship,2425,Hull City,Oscar Estupiñan,COL,FW,27,1996,2,2,147,1.6,1,0,1,0,1,1,0,0,0.61,0.0,0.61,0.0,0.0
+ENG-Championship,2425,Hull City,Regan Slater,ENG,MF,24,1999,44,36,2966,33.0,1,1,2,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06
+ENG-Championship,2425,Hull City,Ryan Giles,ENG,DF,24,2000,16,11,904,10.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Ryan Longman,ENG,"MF,FW",23,2000,9,6,478,5.3,1,0,1,1,0,0,0,0,0.19,0.0,0.19,0.19,0.19
+ENG-Championship,2425,Hull City,Sean McLoughlin,IRL,DF,27,1996,37,37,3213,35.7,0,1,1,0,0,0,6,0,0.0,0.03,0.03,0.0,0.03
+ENG-Championship,2425,Hull City,Steven Alzate,COL,MF,25,1998,28,21,1941,21.6,0,1,1,0,0,0,2,0,0.0,0.05,0.05,0.0,0.05
+ENG-Championship,2425,Hull City,Tyrell Sellars-Fleming,ENG,MF,19,2005,4,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,William Jarvis,ENG,MF,21,2002,6,0,161,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Hull City,Xavier Simons,ENG,MF,21,2003,20,13,1208,13.4,2,0,2,2,0,0,3,0,0.15,0.0,0.15,0.15,0.15
+ENG-Championship,2425,Hull City,Óscar Zambrano,ECU,MF,20,2004,8,5,390,4.3,1,1,2,1,0,0,0,0,0.23,0.23,0.46,0.23,0.46
+ENG-Championship,2425,Leeds United,Ao Tanaka,JPN,MF,25,1998,43,37,3314,36.8,5,2,7,5,0,0,8,0,0.14,0.05,0.19,0.14,0.19
+ENG-Championship,2425,Leeds United,Brenden Aaronson,USA,MF,23,2000,46,43,3551,39.5,9,2,11,9,0,0,1,0,0.23,0.05,0.28,0.23,0.28
+ENG-Championship,2425,Leeds United,Charlie Crew,WAL,MF,18,2006,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Daniel James,WAL,MF,26,1997,36,30,2609,29.0,12,9,21,12,0,0,4,0,0.41,0.31,0.72,0.41,0.72
+ENG-Championship,2425,Leeds United,Ethan Ampadu,WAL,"DF,MF",23,2000,29,26,2285,25.4,0,0,0,0,0,0,7,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Georginio Rutter,FRA,MF,22,2002,1,1,90,1.0,0,1,1,0,0,0,0,0,0.0,1.0,1.0,0.0,1.0
+ENG-Championship,2425,Leeds United,Harry Gray,ENG,FW,15,2008,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Ilia Gruev,BUL,MF,24,2000,23,20,1699,18.9,0,2,2,0,0,0,3,0,0.0,0.11,0.11,0.0,0.11
+ENG-Championship,2425,Leeds United,Illan Meslier,FRA,GK,24,2000,39,39,3510,39.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Isaac Schmidt,SUI,"DF,MF",24,1999,12,0,78,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,James Debayo,ENG,DF,19,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Jayden Bogle,ENG,DF,24,2000,44,44,3824,42.5,6,4,10,6,0,0,12,0,0.14,0.09,0.24,0.14,0.24
+ENG-Championship,2425,Leeds United,Joe Gelhardt,ENG,"FW,MF",22,2002,2,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Joe Rodon,WAL,DF,26,1997,46,46,4135,45.9,1,0,1,1,0,0,5,0,0.02,0.0,0.02,0.02,0.02
+ENG-Championship,2425,Leeds United,Joe Rothwell,ENG,MF,29,1995,36,24,2249,25.0,0,4,4,0,0,0,2,0,0.0,0.16,0.16,0.0,0.16
+ENG-Championship,2425,Leeds United,Josuha Guilavogui,FRA,"DF,MF",33,1990,16,0,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Joël Piroe,SUR,FW,24,1999,46,36,3080,34.2,19,7,26,18,1,1,2,0,0.56,0.2,0.76,0.53,0.73
+ENG-Championship,2425,Leeds United,Junior Firpo,DOM,DF,27,1996,32,30,2616,29.1,4,10,14,4,0,0,7,0,0.14,0.34,0.48,0.14,0.48
+ENG-Championship,2425,Leeds United,Karl Darlow,WAL,GK,33,1990,7,7,630,7.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Largie Ramazani,BEL,MF,23,2001,29,7,797,8.9,6,2,8,6,0,0,2,0,0.68,0.23,0.9,0.68,0.9
+ENG-Championship,2425,Leeds United,Manor Solomon,ISR,MF,25,1999,39,30,2589,28.8,10,12,22,10,0,0,3,0,0.35,0.42,0.76,0.35,0.76
+ENG-Championship,2425,Leeds United,Mateo Joseph,ESP,FW,20,2003,39,11,1285,14.3,3,3,6,3,0,0,0,0,0.21,0.21,0.42,0.21,0.42
+ENG-Championship,2425,Leeds United,Maximilian Wöber,AUT,DF,26,1998,8,2,335,3.7,1,0,1,1,0,0,1,0,0.27,0.0,0.27,0.27,0.27
+ENG-Championship,2425,Leeds United,Pascal Struijk,NED,DF,24,1999,35,31,2824,31.4,5,0,5,3,2,3,3,0,0.16,0.0,0.16,0.1,0.1
+ENG-Championship,2425,Leeds United,Patrick Bamford,ENG,"FW,MF",30,1993,17,0,252,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Sam Byram,ENG,DF,30,1993,36,16,1409,15.7,1,1,2,1,0,0,4,0,0.06,0.06,0.13,0.06,0.13
+ENG-Championship,2425,Leeds United,Samuel Chambers,ENG,MF,16,2007,1,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Leeds United,Wilfried Gnonto,ITA,MF,20,2003,43,26,2276,25.3,9,6,15,9,0,0,5,0,0.36,0.24,0.59,0.36,0.59
+ENG-Championship,2425,Luton Town,Alfie Doughty,ENG,MF,24,1999,26,25,2037,22.6,1,4,5,1,0,0,5,0,0.04,0.18,0.22,0.04,0.22
+ENG-Championship,2425,Luton Town,Amari'i Bell,JAM,"DF,MF",30,1994,31,31,2706,30.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Andros Townsend,ENG,"FW,MF",33,1991,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Carlton Morris,ENG,"FW,MF",28,1995,41,37,3123,34.7,8,2,10,6,2,2,10,0,0.23,0.06,0.29,0.17,0.23
+ENG-Championship,2425,Luton Town,Cauley Woodrow,ENG,FW,29,1994,15,1,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Chiedozie Ogbene,IRL,MF,27,1997,3,3,246,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Christ Makosso,CGO,DF,20,2004,13,12,956,10.6,0,1,1,0,0,0,0,0,0.0,0.09,0.09,0.0,0.09
+ENG-Championship,2425,Luton Town,Daiki Hashioka,JPN,"DF,MF",25,1999,17,12,1204,13.4,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Elijah Adebayo,ENG,FW,26,1998,39,31,2425,26.9,5,0,5,5,0,0,1,0,0.19,0.0,0.19,0.19,0.19
+ENG-Championship,2425,Luton Town,Isaiah Jones,GUY,MF,25,1999,17,16,1310,14.6,2,0,2,2,0,0,4,0,0.14,0.0,0.14,0.14,0.14
+ENG-Championship,2425,Luton Town,Jacob Brown,SCO,"MF,FW",26,1998,29,11,1217,13.5,4,1,5,4,0,0,4,0,0.3,0.07,0.37,0.3,0.37
+ENG-Championship,2425,Luton Town,James Shea,ENG,GK,33,1991,2,1,147,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Joe Taylor,WAL,FW,21,2002,13,0,157,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Jordan Clark,ENG,MF,30,1993,40,37,3235,35.9,6,6,12,6,0,0,10,0,0.17,0.17,0.33,0.17,0.33
+ENG-Championship,2425,Luton Town,Joseph Johnson,ENG,"DF,MF",18,2006,8,5,470,5.2,0,0,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Josh Bowler,ENG,MF,25,1999,8,0,150,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Joshua Phillips,ENG,MF,18,2005,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Kal Naismith,SCO,"DF,MF",32,1992,10,5,463,5.1,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Lamine Fanne,ESP,"MF,FW",20,2004,12,6,584,6.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Lasse Nordås,NOR,FW,22,2002,10,2,255,2.8,0,1,1,0,0,0,0,0,0.0,0.35,0.35,0.0,0.35
+ENG-Championship,2425,Luton Town,Liam Walsh,ENG,MF,26,1997,26,18,1411,15.7,0,1,1,0,0,0,3,3,0.0,0.06,0.06,0.0,0.06
+ENG-Championship,2425,Luton Town,Mads Juel Andersen,DEN,DF,26,1997,8,5,410,4.6,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Mark McGuinness,IRL,DF,23,2001,43,41,3753,41.7,3,3,6,3,0,0,4,0,0.07,0.07,0.14,0.07,0.14
+ENG-Championship,2425,Luton Town,Marvelous Nakamba,ZIM,MF,30,1994,21,15,1295,14.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Millenic Alli,IRL,"MF,FW",24,2000,16,6,766,8.5,4,0,4,4,0,0,1,0,0.47,0.0,0.47,0.47,0.47
+ENG-Championship,2425,Luton Town,Pelly Ruddock Mpanzu,COD,MF,31,1993,10,1,228,2.5,0,1,1,0,0,0,1,0,0.0,0.39,0.39,0.0,0.39
+ENG-Championship,2425,Luton Town,Reece Burke,ENG,"DF,MF",27,1996,17,10,852,9.5,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Reuell Walters,ENG,"DF,MF",19,2004,14,11,979,10.9,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Luton Town,Shandon Baptiste,GRN,MF,26,1998,16,7,717,8.0,1,0,1,1,0,0,2,0,0.13,0.0,0.13,0.13,0.13
+ENG-Championship,2425,Luton Town,Tahith Chong,CUW,"MF,FW",24,1999,30,24,2026,22.5,2,1,3,2,0,0,5,0,0.09,0.04,0.13,0.09,0.13
+ENG-Championship,2425,Luton Town,Teden Mengi,ENG,DF,22,2002,20,17,1569,17.4,1,1,2,1,0,0,3,0,0.06,0.06,0.11,0.06,0.11
+ENG-Championship,2425,Luton Town,Thelo Aasgaard,NOR,"MF,FW",22,2002,17,17,1513,16.8,2,1,3,2,0,0,1,0,0.12,0.06,0.18,0.12,0.18
+ENG-Championship,2425,Luton Town,Thomas Kaminski,BEL,GK,31,1992,45,45,3990,44.3,0,1,1,0,0,0,5,1,0.0,0.02,0.02,0.0,0.02
+ENG-Championship,2425,Luton Town,Tom Holmes,ENG,DF,24,2000,18,15,1316,14.6,1,1,2,1,0,0,4,1,0.07,0.07,0.14,0.07,0.14
+ENG-Championship,2425,Luton Town,Tom Krauß,GER,MF,23,2001,23,20,1601,17.8,2,4,6,2,0,0,1,0,0.11,0.22,0.34,0.11,0.34
+ENG-Championship,2425,Luton Town,Victor Moses,NGA,MF,33,1990,18,12,1135,12.6,1,0,1,1,0,0,0,0,0.08,0.0,0.08,0.08,0.08
+ENG-Championship,2425,Luton Town,Zack Nelson,ENG,"MF,FW",19,2005,21,7,799,8.9,0,1,1,0,0,0,4,0,0.0,0.11,0.11,0.0,0.11
+ENG-Championship,2425,Middlesbrough,Aidan Morris,USA,MF,22,2001,35,33,2915,32.4,0,2,2,0,0,0,4,0,0.0,0.06,0.06,0.0,0.06
+ENG-Championship,2425,Middlesbrough,Alexander Gilbert,IRL,MF,22,2001,7,0,77,0.9,1,0,1,1,0,0,0,0,1.17,0.0,1.17,1.17,1.17
+ENG-Championship,2425,Middlesbrough,Anfernee Dijksteel,SUR,DF,27,1996,33,27,2525,28.1,2,1,3,2,0,0,5,0,0.07,0.04,0.11,0.07,0.11
+ENG-Championship,2425,Middlesbrough,Ben Gannon-Doak,SCO,MF,18,2005,24,21,1778,19.8,3,7,10,3,0,0,7,0,0.15,0.35,0.51,0.15,0.51
+ENG-Championship,2425,Middlesbrough,Dael Fry,ENG,DF,26,1997,21,15,1416,15.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Daniel Barlaser,TUR,MF,27,1997,23,12,1155,12.8,1,1,2,1,0,0,2,0,0.08,0.08,0.16,0.08,0.16
+ENG-Championship,2425,Middlesbrough,Delano Burgzorg,SUR,MF,25,1998,42,23,2187,24.3,5,2,7,4,1,1,2,0,0.21,0.08,0.29,0.16,0.25
+ENG-Championship,2425,Middlesbrough,Emmanuel Latte Lath,CIV,FW,25,1999,29,20,1765,19.6,11,3,14,9,2,2,3,0,0.56,0.15,0.71,0.46,0.61
+ENG-Championship,2425,Middlesbrough,Finn Azaz,IRL,MF,23,2000,45,43,3544,39.4,12,11,23,12,0,0,6,0,0.3,0.28,0.58,0.3,0.58
+ENG-Championship,2425,Middlesbrough,George Edmundson,ENG,DF,26,1997,24,24,2090,23.2,1,0,1,1,0,0,9,0,0.04,0.0,0.04,0.04,0.04
+ENG-Championship,2425,Middlesbrough,George McCormick,ENG,DF,19,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Hayden Hackney,ENG,MF,22,2002,43,43,3792,42.1,5,3,8,5,0,0,9,1,0.12,0.07,0.19,0.12,0.19
+ENG-Championship,2425,Middlesbrough,Isaiah Jones,GUY,MF,25,1999,21,8,796,8.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Jonny Howson,ENG,"DF,MF",36,1988,21,15,1396,15.5,1,0,1,1,0,0,0,0,0.06,0.0,0.06,0.06,0.06
+ENG-Championship,2425,Middlesbrough,Josh Coburn,ENG,FW,21,2002,2,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Kelechi Iheanacho,NGA,"MF,FW",27,1996,15,9,765,8.5,1,2,3,1,0,0,0,0,0.12,0.24,0.35,0.12,0.35
+ENG-Championship,2425,Middlesbrough,Lukas Engel,DEN,DF,25,1998,9,4,368,4.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Luke Ayling,ENG,DF,32,1991,26,23,1951,21.7,0,2,2,0,0,0,4,0,0.0,0.09,0.09,0.0,0.09
+ENG-Championship,2425,Middlesbrough,Marcus Forss,FIN,"MF,FW",25,1999,24,6,666,7.4,1,0,1,1,0,0,1,0,0.14,0.0,0.14,0.14,0.14
+ENG-Championship,2425,Middlesbrough,Mark Travers,IRL,GK,25,1999,17,17,1530,17.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Matthew Clarke,ENG,DF,27,1996,14,12,1112,12.4,2,0,2,2,0,0,0,0,0.16,0.0,0.16,0.16,0.16
+ENG-Championship,2425,Middlesbrough,Micah Hamilton,ENG,MF,20,2003,13,2,316,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Morgan Whittaker,ENG,MF,23,2001,16,11,990,11.0,0,1,1,0,0,0,0,0,0.0,0.09,0.09,0.0,0.09
+ENG-Championship,2425,Middlesbrough,Nathan Simpson,ENG,MF,20,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Neto Borges,BRA,DF,27,1996,35,34,2891,32.1,1,3,4,1,0,0,4,0,0.03,0.09,0.12,0.03,0.12
+ENG-Championship,2425,Middlesbrough,Rav van den Berg,NED,DF,20,2004,27,23,2128,23.6,0,0,0,0,0,0,4,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Riley McGree,AUS,MF,25,1998,17,11,943,10.5,1,5,6,1,0,0,2,0,0.1,0.48,0.57,0.1,0.57
+ENG-Championship,2425,Middlesbrough,Ryan Giles,ENG,DF,24,2000,12,3,307,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Samuel Iling-Junior,ENG,"DF,MF",20,2003,16,11,1057,11.7,1,2,3,1,0,0,2,0,0.09,0.17,0.26,0.09,0.26
+ENG-Championship,2425,Middlesbrough,Seny Dieng,SEN,GK,29,1994,17,17,1530,17.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Solomon Brynn,ENG,GK,23,2000,6,6,509,5.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Tom Glover,AUS,GK,26,1997,7,6,571,6.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Middlesbrough,Tommy Conway,SCO,"FW,MF",21,2002,36,27,2357,26.2,13,1,14,11,2,4,1,0,0.5,0.04,0.53,0.42,0.46
+ENG-Championship,2425,Millwall,Aaron Connolly,IRL,"MF,FW",24,2000,14,6,659,7.3,1,0,1,1,0,1,3,0,0.14,0.0,0.14,0.14,0.14
+ENG-Championship,2425,Millwall,Aidomo Emakhu,IRL,MF,20,2003,25,6,696,7.7,0,2,2,0,0,0,3,1,0.0,0.26,0.26,0.0,0.26
+ENG-Championship,2425,Millwall,Billy Mitchell,ENG,MF,24,2000,19,9,891,9.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Calum Scanlon,ENG,MF,19,2005,4,3,167,1.9,1,0,1,1,0,0,0,0,0.54,0.0,0.54,0.54,0.54
+ENG-Championship,2425,Millwall,Camiel Neghli,NED,MF,22,2001,4,2,193,2.1,1,0,1,1,0,0,0,0,0.47,0.0,0.47,0.47,0.47
+ENG-Championship,2425,Millwall,Casper de Norre,BEL,MF,27,1997,46,44,3606,40.1,3,4,7,3,0,0,5,0,0.07,0.1,0.17,0.07,0.17
+ENG-Championship,2425,Millwall,Dan McNamara,IRL,DF,25,1998,13,7,683,7.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Daniel Kelly,SCO,MF,18,2005,2,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Duncan Watmore,ENG,MF,30,1994,26,19,1578,17.5,5,1,6,5,0,0,0,0,0.29,0.06,0.34,0.29,0.34
+ENG-Championship,2425,Millwall,Femi Azeez,NGA,MF,23,2001,34,21,1906,21.2,2,5,7,2,0,0,4,0,0.09,0.24,0.33,0.09,0.33
+ENG-Championship,2425,Millwall,George Evans,ENG,GK,19,2005,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,George Honeyman,ENG,MF,29,1994,40,28,2422,26.9,2,5,7,2,0,0,7,0,0.07,0.19,0.26,0.07,0.26
+ENG-Championship,2425,Millwall,George Saville,NIR,MF,31,1993,45,36,3300,36.7,1,3,4,1,0,0,8,0,0.03,0.08,0.11,0.03,0.11
+ENG-Championship,2425,Millwall,Jake Cooper,ENG,DF,29,1995,36,36,3195,35.5,3,1,4,3,0,0,4,0,0.08,0.03,0.11,0.08,0.11
+ENG-Championship,2425,Millwall,Japhet Tanganga,ENG,DF,25,1999,40,40,3552,39.5,2,0,2,2,0,0,6,0,0.05,0.0,0.05,0.05,0.05
+ENG-Championship,2425,Millwall,Joe Bryan,ENG,DF,30,1993,39,37,3275,36.4,1,1,2,1,0,0,8,0,0.03,0.03,0.05,0.03,0.05
+ENG-Championship,2425,Millwall,Josh Coburn,ENG,FW,21,2002,20,14,1218,13.5,5,0,5,5,0,1,0,0,0.37,0.0,0.37,0.37,0.37
+ENG-Championship,2425,Millwall,Kevin Nisbet,SCO,FW,27,1997,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Liam Roberts,ENG,GK,29,1994,2,1,91,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Lukas Jensen,DEN,GK,25,1999,41,41,3689,41.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Luke Cundle,ENG,MF,22,2002,16,13,985,10.9,1,0,1,1,0,0,2,0,0.09,0.0,0.09,0.09,0.09
+ENG-Championship,2425,Millwall,Macaulay Langstaff,ENG,FW,27,1997,34,14,1388,15.4,1,2,3,1,0,0,0,0,0.06,0.13,0.19,0.06,0.19
+ENG-Championship,2425,Millwall,Mihailo Ivanović,SRB,"FW,MF",19,2004,37,23,2176,24.2,12,0,12,11,1,1,2,0,0.5,0.0,0.5,0.45,0.45
+ENG-Championship,2425,Millwall,Murray Wallace,SCO,DF,31,1993,11,8,733,8.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Raees Bangura-Williams,,MF,,,10,7,608,6.8,0,3,3,0,0,0,2,0,0.0,0.44,0.44,0.0,0.44
+ENG-Championship,2425,Millwall,Romain Esse,ENG,MF,19,2005,24,24,2018,22.4,4,1,5,4,0,0,4,0,0.18,0.04,0.22,0.18,0.22
+ENG-Championship,2425,Millwall,Ryan Leonard,ENG,DF,32,1992,33,29,2631,29.2,0,1,1,0,0,0,8,0,0.0,0.03,0.03,0.0,0.03
+ENG-Championship,2425,Millwall,Ryan Wintle,ENG,MF,27,1997,22,3,513,5.7,1,0,1,1,0,0,3,0,0.18,0.0,0.18,0.18,0.18
+ENG-Championship,2425,Millwall,Shaun Hutchinson,ENG,DF,33,1990,9,4,396,4.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Tom Bradshaw,WAL,FW,32,1992,11,4,450,5.0,1,0,1,0,1,1,0,0,0.2,0.0,0.2,0.0,0.0
+ENG-Championship,2425,Millwall,Tom Leahy,ENG,FW,20,2004,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Tristan Crama,FRA,DF,22,2001,20,18,1634,18.2,0,2,2,0,0,0,1,0,0.0,0.11,0.11,0.0,0.11
+ENG-Championship,2425,Millwall,Wes Harding,JAM,DF,27,1996,5,2,193,2.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Millwall,Zak Sturge,ENG,DF,20,2004,5,3,303,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Abu Kamara,ENG,"FW,MF",21,2003,2,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Adam Idah,IRL,FW,23,2001,1,0,30,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Amankwah Forson,GHA,"MF,FW",21,2002,21,8,727,8.1,2,2,4,2,0,0,2,0,0.25,0.25,0.5,0.25,0.5
+ENG-Championship,2425,Norwich City,Angus Gunn,SCO,GK,28,1996,35,35,3104,34.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Anis Ben Slimane,TUN,MF,23,2001,33,25,2091,23.2,2,2,4,2,0,0,6,0,0.09,0.09,0.17,0.09,0.17
+ENG-Championship,2425,Norwich City,Ante Crnac,CRO,"FW,MF",20,2003,38,29,2495,27.7,7,4,11,7,0,0,2,0,0.25,0.14,0.4,0.25,0.4
+ENG-Championship,2425,Norwich City,Ashley Barnes,ENG,FW,34,1989,8,1,173,1.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Benjamin Chrisene,ENG,DF,20,2004,26,12,1150,12.8,1,0,1,1,0,0,2,0,0.08,0.0,0.08,0.08,0.08
+ENG-Championship,2425,Norwich City,Borja Sainz,ESP,"FW,MF",23,2001,41,41,3607,40.1,18,4,22,18,0,0,8,0,0.45,0.1,0.55,0.45,0.55
+ENG-Championship,2425,Norwich City,Brad Hills,ENG,DF,20,2004,3,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Callum Doyle,ENG,DF,20,2003,40,38,3440,38.2,1,7,8,1,0,0,11,0,0.03,0.18,0.21,0.03,0.21
+ENG-Championship,2425,Norwich City,Christian Fassnacht,SUI,FW,30,1993,3,1,82,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Elliot Myles,WAL,FW,17,2007,3,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Emiliano Marcondes,DEN,"MF,FW",29,1995,33,25,2280,25.3,5,6,11,5,0,0,5,0,0.2,0.24,0.43,0.2,0.43
+ENG-Championship,2425,Norwich City,Gabriel Forsyth,SCO,MF,17,2006,5,2,163,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,George Long,ENG,GK,30,1993,9,8,765,8.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Grant Hanley,SCO,DF,32,1991,3,1,79,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Jack Stacey,ENG,"DF,MF",28,1996,41,20,2143,23.8,2,6,8,2,0,0,5,0,0.08,0.25,0.34,0.08,0.34
+ENG-Championship,2425,Norwich City,Jacob Wright,ENG,MF,18,2005,15,10,888,9.9,0,4,4,0,0,0,2,0,0.0,0.41,0.41,0.0,0.41
+ENG-Championship,2425,Norwich City,Jakob Sørensen,DEN,MF,26,1998,27,14,1327,14.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Josh Sargent,USA,FW,24,2000,32,28,2500,27.8,15,5,20,14,1,2,3,0,0.54,0.18,0.72,0.5,0.68
+ENG-Championship,2425,Norwich City,José Córdoba,PAN,DF,23,2001,34,24,2103,23.4,1,0,1,1,0,0,4,1,0.04,0.0,0.04,0.04,0.04
+ENG-Championship,2425,Norwich City,Kaide Gordon,ENG,FW,19,2004,10,1,181,2.0,1,0,1,1,0,0,1,0,0.5,0.0,0.5,0.5,0.5
+ENG-Championship,2425,Norwich City,Kellen Fisher,ENG,"DF,MF",20,2004,38,34,2692,29.9,0,4,4,0,0,0,10,0,0.0,0.13,0.13,0.0,0.13
+ENG-Championship,2425,Norwich City,Kenny McLean,SCO,"MF,DF",32,1992,34,33,2994,33.3,0,4,4,0,0,0,6,1,0.0,0.12,0.12,0.0,0.12
+ENG-Championship,2425,Norwich City,Lewis Dobbin,ENG,"FW,MF",21,2003,10,8,640,7.1,2,0,2,2,0,0,1,0,0.28,0.0,0.28,0.28,0.28
+ENG-Championship,2425,Norwich City,Liam Gibbs,ENG,MF,21,2002,9,1,212,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Lucien Mahovo,ENG,DF,19,2005,8,6,524,5.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Marcelino Núñez,CHI,MF,24,2000,32,27,2245,24.9,6,4,10,6,0,0,5,0,0.24,0.16,0.4,0.24,0.4
+ENG-Championship,2425,Norwich City,Matěj Jurásek,CZE,FW,20,2003,2,1,83,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Onel Hernández,CUB,FW,31,1993,23,5,639,7.1,0,3,3,0,0,0,2,0,0.0,0.42,0.42,0.0,0.42
+ENG-Championship,2425,Norwich City,Oscar Schwartau,DEN,"MF,FW",18,2006,40,17,1564,17.4,1,0,1,1,0,0,3,0,0.06,0.0,0.06,0.06,0.06
+ENG-Championship,2425,Norwich City,Ruairi Mcconville,NIR,DF,19,2005,8,3,205,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Norwich City,Shane Duffy,IRL,DF,32,1992,45,45,4040,44.9,4,0,4,4,0,0,4,0,0.09,0.0,0.09,0.09,0.09
+ENG-Championship,2425,Norwich City,Vicente Reyes,CHI,GK,20,2003,4,3,271,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Alex Matos,ENG,"MF,FW",19,2004,20,10,933,10.4,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Benjamin Nelson,ENG,DF,20,2004,17,16,1372,15.2,1,0,1,1,0,0,1,0,0.07,0.0,0.07,0.07,0.07
+ENG-Championship,2425,Oxford United,Cameron Brannagan,ENG,MF,28,1996,33,33,2900,32.2,3,4,7,3,0,0,10,0,0.09,0.12,0.22,0.09,0.22
+ENG-Championship,2425,Oxford United,Ciaron Brown,NIR,DF,26,1998,41,41,3611,40.1,4,3,7,4,0,0,6,0,0.1,0.07,0.17,0.1,0.17
+ENG-Championship,2425,Oxford United,Dane Scarlett,ENG,FW,20,2004,20,7,792,8.8,4,0,4,4,0,0,1,0,0.45,0.0,0.45,0.45,0.45
+ENG-Championship,2425,Oxford United,Elliott Moore,ENG,DF,27,1997,26,24,2057,22.9,1,2,3,1,0,0,7,0,0.04,0.09,0.13,0.04,0.13
+ENG-Championship,2425,Oxford United,Gatlin O'Donkor,ENG,FW,19,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Greg Leigh,JAM,"DF,MF",29,1994,34,24,2338,26.0,6,1,7,6,0,0,1,0,0.23,0.04,0.27,0.23,0.27
+ENG-Championship,2425,Oxford United,Hidde ter Avest,NED,"DF,MF",27,1997,21,10,997,11.1,1,0,1,1,0,0,1,0,0.09,0.0,0.09,0.09,0.09
+ENG-Championship,2425,Oxford United,Idris El Mizouni,TUN,MF,23,2000,28,12,1244,13.8,1,2,3,1,0,0,2,0,0.07,0.14,0.22,0.07,0.22
+ENG-Championship,2425,Oxford United,Jamie Cumming,ENG,GK,24,1999,45,45,4050,45.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Joe Bennett,ENG,DF,34,1990,12,8,744,8.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Jordan Thorniley,ENG,DF,27,1996,2,0,81,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Josh McEachran,ENG,MF,31,1993,12,6,508,5.6,0,1,1,0,0,0,1,0,0.0,0.18,0.18,0.0,0.18
+ENG-Championship,2425,Oxford United,Kyle Edwards,ENG,MF,26,1998,7,1,199,2.2,0,1,1,0,0,0,0,0,0.0,0.45,0.45,0.0,0.45
+ENG-Championship,2425,Oxford United,Louie Sibley,ENG,MF,22,2001,11,1,170,1.9,1,0,1,1,0,0,3,0,0.53,0.0,0.53,0.53,0.53
+ENG-Championship,2425,Oxford United,Malcolm Ebiowei,ENG,MF,20,2003,4,0,68,0.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Mark Harris,WAL,FW,25,1998,46,34,2893,32.1,6,3,9,6,0,0,3,0,0.19,0.09,0.28,0.19,0.28
+ENG-Championship,2425,Oxford United,Marselino Ferdinan,IDN,MF,19,2004,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Matt Ingram,ENG,GK,30,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Matt Phillips,SCO,"MF,DF",33,1991,28,10,955,10.6,0,2,2,0,0,0,2,0,0.0,0.19,0.19,0.0,0.19
+ENG-Championship,2425,Oxford United,Michał Helik,POL,DF,28,1995,20,20,1800,20.0,5,0,5,5,0,0,4,0,0.25,0.0,0.25,0.25,0.25
+ENG-Championship,2425,Oxford United,Ole Romeny,IDN,"FW,MF",24,2000,14,7,591,6.6,1,0,1,1,0,0,2,0,0.15,0.0,0.15,0.15,0.15
+ENG-Championship,2425,Oxford United,Owen Dale,ENG,MF,25,1998,11,4,350,3.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Peter Kioso,COD,DF,25,1998,30,26,2302,25.6,0,1,1,0,0,0,6,0,0.0,0.04,0.04,0.0,0.04
+ENG-Championship,2425,Oxford United,Przemysław Płacheta,POL,MF,26,1998,32,27,2073,23.0,3,3,6,3,0,0,4,0,0.13,0.13,0.26,0.13,0.26
+ENG-Championship,2425,Oxford United,Ruben Rodrigues,POR,MF,27,1996,39,28,2251,25.0,4,3,7,4,0,0,3,0,0.16,0.12,0.28,0.16,0.28
+ENG-Championship,2425,Oxford United,Sam Long,ENG,DF,29,1995,24,18,1657,18.4,1,1,2,1,0,0,2,0,0.05,0.05,0.11,0.05,0.11
+ENG-Championship,2425,Oxford United,Siriki Dembélé,CIV,MF,27,1996,25,15,1371,15.2,2,1,3,2,0,0,2,0,0.13,0.07,0.2,0.13,0.2
+ENG-Championship,2425,Oxford United,Stanley Mills,ENG,MF,20,2003,11,3,355,3.9,1,0,1,1,0,0,2,0,0.25,0.0,0.25,0.25,0.25
+ENG-Championship,2425,Oxford United,Tom Bradshaw,WAL,FW,32,1992,11,4,359,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Tyler Goodrham,ENG,MF,20,2003,41,33,3052,33.9,3,6,9,3,0,0,5,0,0.09,0.18,0.27,0.09,0.27
+ENG-Championship,2425,Oxford United,Will Goodwin,ENG,FW,22,2002,3,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Oxford United,Will Vaulks,WAL,MF,30,1993,44,38,3339,37.1,1,2,3,1,0,0,4,0,0.03,0.05,0.08,0.03,0.08
+ENG-Championship,2425,Plymouth Argyle,Adam Forshaw,ENG,MF,32,1991,16,7,683,7.6,0,0,0,0,0,0,5,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Adam Randell,ENG,MF,23,2000,39,39,3378,37.5,1,3,4,1,0,0,7,0,0.03,0.08,0.11,0.03,0.11
+ENG-Championship,2425,Plymouth Argyle,Andre Gray,JAM,FW,33,1991,13,5,550,6.1,3,1,4,3,0,0,1,0,0.49,0.16,0.65,0.49,0.65
+ENG-Championship,2425,Plymouth Argyle,Bali Mumba,ENG,"MF,DF",22,2001,43,37,3396,37.7,0,2,2,0,0,0,3,0,0.0,0.05,0.05,0.0,0.05
+ENG-Championship,2425,Plymouth Argyle,Ben Waine,NZL,FW,23,2001,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Brendan Galloway,ZIM,DF,28,1996,13,11,980,10.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Caleb Roberts,ENG,MF,18,2005,5,2,192,2.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Callum Wright,ENG,MF,24,2000,35,14,1462,16.2,1,0,1,1,0,0,0,1,0.06,0.0,0.06,0.06,0.06
+ENG-Championship,2425,Plymouth Argyle,Conor Hazard,NIR,GK,26,1998,25,25,2250,25.0,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Daniel Grimshaw,ENG,GK,26,1998,21,21,1890,21.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Darko Gyabi,ENG,MF,20,2004,43,34,2841,31.6,1,2,3,1,0,0,10,0,0.03,0.06,0.1,0.03,0.1
+ENG-Championship,2425,Plymouth Argyle,Freddie Issaka,WAL,MF,18,2006,19,3,596,6.6,1,0,1,1,0,0,0,1,0.15,0.0,0.15,0.15,0.15
+ENG-Championship,2425,Plymouth Argyle,Ibrahim Cissoko,NED,MF,21,2003,13,9,661,7.3,3,1,4,3,0,0,2,1,0.41,0.14,0.54,0.41,0.54
+ENG-Championship,2425,Plymouth Argyle,Joe Edwards,ENG,DF,33,1990,17,12,1136,12.6,1,1,2,1,0,0,4,1,0.08,0.08,0.16,0.08,0.16
+ENG-Championship,2425,Plymouth Argyle,Jordan Houghton,ENG,MF,28,1995,30,15,1526,17.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Joseph Hatch,WAL,MF,17,2006,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Julio Pleguezuelo,ESP,DF,27,1997,24,23,1964,21.8,1,0,1,1,0,0,8,0,0.05,0.0,0.05,0.05,0.05
+ENG-Championship,2425,Plymouth Argyle,Kornél Szűcs,HUN,DF,22,2001,36,31,2839,31.5,0,1,1,0,0,0,6,0,0.0,0.03,0.03,0.0,0.03
+ENG-Championship,2425,Plymouth Argyle,Lewis Gibson,ENG,DF,24,2000,18,18,1620,18.0,1,1,2,1,0,0,1,0,0.06,0.06,0.11,0.06,0.11
+ENG-Championship,2425,Plymouth Argyle,Maksym Talovierov,UKR,DF,24,2000,11,10,934,10.4,1,1,2,1,0,0,3,0,0.1,0.1,0.19,0.1,0.19
+ENG-Championship,2425,Plymouth Argyle,Malachi Boateng,ENG,MF,22,2002,7,1,198,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Matthew Sorinola,ENG,"MF,DF",23,2001,25,19,1674,18.6,0,1,1,0,0,0,9,1,0.0,0.05,0.05,0.0,0.05
+ENG-Championship,2425,Plymouth Argyle,Michael Baidoo,GHA,"MF,FW",25,1999,11,4,452,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Michael Obafemi,IRL,"FW,MF",24,2000,29,14,1196,13.3,2,0,2,2,0,0,0,0,0.15,0.0,0.15,0.15,0.15
+ENG-Championship,2425,Plymouth Argyle,Morgan Whittaker,ENG,MF,23,2001,20,20,1747,19.4,3,1,4,3,0,0,3,0,0.15,0.05,0.21,0.15,0.21
+ENG-Championship,2425,Plymouth Argyle,Muhamed Tijani,NGA,FW,24,2000,13,4,448,5.0,2,1,3,2,0,0,2,0,0.4,0.2,0.6,0.4,0.6
+ENG-Championship,2425,Plymouth Argyle,Mustapha Bundu,SLE,"FW,MF",27,1997,37,27,2302,25.6,10,6,16,10,0,0,4,0,0.39,0.23,0.63,0.39,0.63
+ENG-Championship,2425,Plymouth Argyle,Nathanael Ogbeta,ENG,"MF,DF",23,2001,17,9,626,7.0,1,1,2,1,0,0,1,0,0.14,0.14,0.29,0.14,0.29
+ENG-Championship,2425,Plymouth Argyle,Nikola Katić,BIH,DF,27,1996,15,14,1223,13.6,1,0,1,1,0,0,2,0,0.07,0.0,0.07,0.07,0.07
+ENG-Championship,2425,Plymouth Argyle,Rami Al Hajj,SWE,MF,22,2001,28,18,1374,15.3,3,0,3,3,0,0,1,0,0.2,0.0,0.2,0.2,0.2
+ENG-Championship,2425,Plymouth Argyle,Ryan Hardie,SCO,"FW,MF",27,1997,37,28,2265,25.2,10,3,13,7,3,3,0,0,0.4,0.12,0.52,0.28,0.4
+ENG-Championship,2425,Plymouth Argyle,Tegan Finn,,MF,,,4,1,144,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Plymouth Argyle,Tymoteusz Puchacz,POL,"MF,DF",25,1999,15,12,1123,12.5,0,1,1,0,0,0,1,0,0.0,0.08,0.08,0.0,0.08
+ENG-Championship,2425,Plymouth Argyle,Victor Pálsson,ISL,DF,33,1991,25,19,1736,19.3,0,1,1,0,0,0,3,0,0.0,0.05,0.05,0.0,0.05
+ENG-Championship,2425,Portsmouth,Abdoulaye Kamara,GUI,MF,19,2004,5,0,124,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Adil Aouchiche,ALG,MF,22,2002,12,9,683,7.6,1,1,2,1,0,0,2,0,0.13,0.13,0.26,0.13,0.26
+ENG-Championship,2425,Portsmouth,Andre Dozzell,ENG,MF,25,1999,39,32,2817,31.3,2,1,3,2,0,0,11,0,0.06,0.03,0.1,0.06,0.1
+ENG-Championship,2425,Portsmouth,Ben Killip,ENG,GK,28,1995,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Ben Stevenson,ENG,MF,27,1997,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Callum Lang,ENG,MF,25,1998,32,28,2438,27.1,10,2,12,8,2,2,9,0,0.37,0.07,0.44,0.3,0.37
+ENG-Championship,2425,Portsmouth,Christian Saydee,LBR,"MF,FW",22,2002,29,10,1152,12.8,3,0,3,3,0,0,5,0,0.23,0.0,0.23,0.23,0.23
+ENG-Championship,2425,Portsmouth,Cohen Bramall,ENG,DF,28,1996,12,4,460,5.1,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Colby Bishop,ENG,FW,27,1996,32,31,2629,29.2,11,3,14,8,3,4,3,0,0.38,0.1,0.48,0.27,0.38
+ENG-Championship,2425,Portsmouth,Connor Ogilvie,ENG,DF,28,1996,45,45,4028,44.8,4,1,5,4,0,0,5,0,0.09,0.02,0.11,0.09,0.11
+ENG-Championship,2425,Portsmouth,Conor Shaughnessy,IRL,DF,28,1996,9,7,512,5.7,1,0,1,1,0,0,2,0,0.18,0.0,0.18,0.18,0.18
+ENG-Championship,2425,Portsmouth,Elias Sørensen,DEN,"MF,FW",24,1999,12,4,322,3.6,1,0,1,1,0,1,0,0,0.28,0.0,0.28,0.28,0.28
+ENG-Championship,2425,Portsmouth,Freddie Potts,ENG,MF,20,2003,37,35,3057,34.0,1,4,5,1,0,0,7,0,0.03,0.12,0.15,0.03,0.15
+ENG-Championship,2425,Portsmouth,Harvey Blair,ENG,MF,20,2003,12,3,294,3.3,1,0,1,1,0,0,3,0,0.31,0.0,0.31,0.31,0.31
+ENG-Championship,2425,Portsmouth,Hayden Matthews,AUS,DF,20,2004,6,3,318,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Isaac Hayden,JAM,MF,29,1995,17,12,936,10.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Jacob Farrell,AUS,DF,21,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Jordan Archer,SCO,GK,31,1993,2,1,150,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Jordan Williams,ENG,DF,24,1999,20,15,1265,14.1,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Josh Murphy,ENG,MF,29,1995,42,40,3426,38.1,7,14,21,7,0,0,6,0,0.18,0.37,0.55,0.18,0.55
+ENG-Championship,2425,Portsmouth,Kaide Gordon,ENG,FW,19,2004,5,0,154,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Kusini Yengi,AUS,FW,25,1999,14,4,538,6.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Mark O'Mahony,IRL,FW,19,2005,13,5,595,6.6,3,0,3,3,0,0,1,0,0.45,0.0,0.45,0.45,0.45
+ENG-Championship,2425,Portsmouth,Marlon Pack,ENG,"DF,MF",33,1991,41,30,2712,30.1,0,2,2,0,0,0,8,1,0.0,0.07,0.07,0.0,0.07
+ENG-Championship,2425,Portsmouth,Matt Ritchie,SCO,MF,34,1989,39,28,2190,24.3,5,1,6,5,0,0,7,0,0.21,0.04,0.25,0.21,0.25
+ENG-Championship,2425,Portsmouth,Nicolas Schmid,AUT,GK,27,1997,35,35,3090,34.3,0,2,2,0,0,0,1,0,0.0,0.06,0.06,0.0,0.06
+ENG-Championship,2425,Portsmouth,Owen Moxon,ENG,MF,26,1998,12,2,275,3.1,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Paddy Lane,NIR,MF,23,2001,22,13,1074,11.9,1,1,2,1,0,0,2,0,0.08,0.08,0.17,0.08,0.17
+ENG-Championship,2425,Portsmouth,Regan Poole,WAL,DF,26,1998,27,23,2144,23.8,1,0,1,1,0,0,5,0,0.04,0.0,0.04,0.04,0.04
+ENG-Championship,2425,Portsmouth,Robert Atkinson,ENG,DF,26,1998,14,13,1098,12.2,2,1,3,2,0,0,4,0,0.16,0.08,0.25,0.16,0.25
+ENG-Championship,2425,Portsmouth,Ryley Towler,ENG,DF,23,2001,12,10,936,10.4,1,0,1,1,0,0,3,0,0.1,0.0,0.1,0.1,0.1
+ENG-Championship,2425,Portsmouth,Sam Silvera,AUS,MF,23,2000,11,5,446,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Terry Devlin,NIR,"DF,MF",20,2003,34,13,1562,17.4,0,1,1,0,0,0,2,0,0.0,0.06,0.06,0.0,0.06
+ENG-Championship,2425,Portsmouth,Thomas Waddingham,AUS,FW,19,2005,5,1,103,1.1,1,0,1,1,0,0,1,0,0.87,0.0,0.87,0.87,0.87
+ENG-Championship,2425,Portsmouth,Tom McIntyre,SCO,DF,25,1998,12,11,1019,11.3,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Will Norris,ENG,GK,30,1993,8,8,720,8.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Portsmouth,Zak Swanson,ENG,DF,23,2000,30,23,1972,21.9,1,1,2,1,0,0,5,0,0.05,0.05,0.09,0.05,0.09
+ENG-Championship,2425,Preston,Alistair McCann,NIR,MF,24,1999,29,28,2418,26.9,1,0,1,1,0,0,9,0,0.04,0.0,0.04,0.04,0.04
+ENG-Championship,2425,Preston,Andrew Hughes,WAL,"DF,MF",32,1992,40,36,3236,36.0,0,1,1,0,0,0,8,0,0.0,0.03,0.03,0.0,0.03
+ENG-Championship,2425,Preston,Ben Whiteman,ENG,MF,28,1996,35,27,2495,27.7,0,2,2,0,0,0,12,0,0.0,0.07,0.07,0.0,0.07
+ENG-Championship,2425,Preston,Brad Potts,ENG,"MF,DF",30,1994,29,22,2056,22.8,4,2,6,4,0,0,4,0,0.18,0.09,0.26,0.18,0.26
+ENG-Championship,2425,Preston,Ched Evans,WAL,FW,35,1988,8,0,102,1.1,0,2,2,0,0,0,0,0,0.0,1.76,1.76,0.0,1.76
+ENG-Championship,2425,Preston,David Cornell,WAL,GK,33,1991,10,9,811,9.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Preston,Duane Holmes,USA,MF,29,1994,29,6,835,9.3,1,1,2,1,0,0,4,0,0.11,0.11,0.22,0.11,0.22
+ENG-Championship,2425,Preston,Emil Riis Jakobsen,DEN,FW,26,1998,45,29,2716,30.2,12,2,14,12,0,0,2,0,0.4,0.07,0.46,0.4,0.46
+ENG-Championship,2425,Preston,Freddie Woodman,ENG,GK,27,1997,37,37,3329,37.0,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Preston,Jack Whatmough,ENG,DF,27,1996,16,12,1118,12.4,0,1,1,0,0,0,4,0,0.0,0.08,0.08,0.0,0.08
+ENG-Championship,2425,Preston,Jayden Meghoma,ENG,"MF,DF",18,2006,12,11,768,8.5,0,1,1,0,0,0,1,0,0.0,0.12,0.12,0.0,0.12
+ENG-Championship,2425,Preston,Jeppe Okkels,DEN,MF,25,1999,7,1,125,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Preston,Jordan Storey,ENG,DF,26,1997,35,35,3062,34.0,1,1,2,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06
+ENG-Championship,2425,Preston,Josh Bowler,ENG,"MF,FW",25,1999,10,6,456,5.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Preston,Kaine Kesler-Hayden,ENG,"MF,DF",21,2002,44,41,3670,40.8,2,3,5,2,0,0,6,0,0.05,0.07,0.12,0.05,0.12
+ENG-Championship,2425,Preston,Kian Best,ENG,DF,18,2005,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Preston,Lewis Gibson,ENG,DF,24,2000,19,19,1634,18.2,1,0,1,1,0,0,2,0,0.06,0.0,0.06,0.06,0.06
+ENG-Championship,2425,Preston,Liam Lindsay,SCO,DF,28,1995,35,29,2609,29.0,1,1,2,1,0,0,10,2,0.03,0.03,0.07,0.03,0.07
+ENG-Championship,2425,Preston,Mads Frøkjær-Jensen,DEN,"MF,FW",25,1999,38,27,2362,26.2,2,5,7,2,0,0,8,0,0.08,0.19,0.27,0.08,0.27
+ENG-Championship,2425,Preston,Milutin Osmajić,MNE,FW,25,1999,34,20,1918,21.3,9,3,12,9,0,0,4,0,0.42,0.14,0.56,0.42,0.56
+ENG-Championship,2425,Preston,Patrick Bauer,GER,DF,31,1992,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Preston,Robbie Brady,IRL,MF,32,1992,29,17,1638,18.2,0,4,4,0,0,0,8,0,0.0,0.22,0.22,0.0,0.22
+ENG-Championship,2425,Preston,Ryan Ledson,ENG,MF,26,1997,26,14,1211,13.5,1,1,2,1,0,0,7,0,0.07,0.07,0.15,0.07,0.15
+ENG-Championship,2425,Preston,Ryan Porteous,SCO,DF,25,1999,11,9,823,9.1,1,0,1,1,0,0,2,0,0.11,0.0,0.11,0.11,0.11
+ENG-Championship,2425,Preston,Sam Greenwood,ENG,"MF,FW",22,2002,38,29,2427,27.0,5,3,8,3,2,2,9,2,0.19,0.11,0.3,0.11,0.22
+ENG-Championship,2425,Preston,Stefán Þórðarson,ISL,MF,25,1998,39,29,2503,27.8,3,2,5,3,0,0,6,0,0.11,0.07,0.18,0.11,0.18
+ENG-Championship,2425,Preston,Theo Carroll,ENG,MF,17,2007,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Preston,Will Keane,IRL,"FW,MF",31,1993,27,13,1124,12.5,3,0,3,3,0,0,0,0,0.24,0.0,0.24,0.24,0.24
+ENG-Championship,2425,QPR,Alfie Lloyd,ENG,"MF,FW",21,2003,27,4,747,8.3,2,0,2,2,0,0,4,0,0.24,0.0,0.24,0.24,0.24
+ENG-Championship,2425,QPR,Daniel Bennie,AUS,FW,18,2006,12,1,216,2.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,QPR,Elijah Dixon-Bonner,ENG,MF,23,2001,3,0,10,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,QPR,Emmerson Sutton,ENG,FW,17,2006,2,0,56,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,QPR,Harrison Ashby,SCO,"DF,MF",22,2001,29,17,1583,17.6,0,1,1,0,0,0,6,0,0.0,0.06,0.06,0.0,0.06
+ENG-Championship,2425,QPR,Hevertton Santos,BRA,DF,23,2001,6,4,319,3.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,QPR,Ilias Chair,MAR,"MF,FW",26,1997,28,20,1698,18.9,2,6,8,2,0,0,2,0,0.11,0.32,0.42,0.11,0.42
+ENG-Championship,2425,QPR,Jack Colback,ENG,MF,34,1989,24,16,1449,16.1,1,1,2,1,0,0,8,1,0.06,0.06,0.12,0.06,0.12
+ENG-Championship,2425,QPR,Jake Clarke-Salter,ENG,DF,26,1997,11,8,753,8.4,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,QPR,Jimmy Dunne,IRL,DF,26,1997,45,45,4050,45.0,5,2,7,5,0,0,9,0,0.11,0.04,0.16,0.11,0.16
+ENG-Championship,2425,QPR,Joe Walsh,ENG,GK,22,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,QPR,Jonathan Varane,MTQ,MF,22,2001,39,29,2598,28.9,0,2,2,0,0,0,8,1,0.0,0.07,0.07,0.0,0.07
+ENG-Championship,2425,QPR,Karamoko Dembélé,ENG,MF,21,2003,23,15,1186,13.2,3,4,7,3,0,0,2,0,0.23,0.3,0.53,0.23,0.53
+ENG-Championship,2425,QPR,Kenneth Paal,SUR,DF,27,1997,39,34,2879,32.0,1,3,4,1,0,0,4,0,0.03,0.09,0.13,0.03,0.13
+ENG-Championship,2425,QPR,Kieran Morgan,ENG,MF,18,2006,30,19,1586,17.6,1,2,3,1,0,0,5,0,0.06,0.11,0.17,0.06,0.17
+ENG-Championship,2425,QPR,Koki Saito,JPN,MF,22,2001,39,25,2295,25.5,3,2,5,3,0,0,0,1,0.12,0.08,0.2,0.12,0.2
+ENG-Championship,2425,QPR,Liam Morrison,SCO,DF,21,2003,19,14,1302,14.5,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,QPR,Lucas Andersen,DEN,MF,29,1994,33,13,1165,12.9,2,0,2,2,0,0,1,0,0.15,0.0,0.15,0.15,0.15
+ENG-Championship,2425,QPR,Lyndon Dykes,SCO,"FW,MF",28,1995,1,0,6,0.1,1,0,1,1,0,0,0,0,15.0,0.0,15.0,15.0,15.0
+ENG-Championship,2425,QPR,Michael Frey,SUI,FW,30,1994,29,21,1781,19.8,8,1,9,7,1,1,6,0,0.4,0.05,0.45,0.35,0.4
+ENG-Championship,2425,QPR,Morgan Fox,WAL,DF,30,1993,26,12,1344,14.9,1,0,1,1,0,0,3,0,0.07,0.0,0.07,0.07,0.07
+ENG-Championship,2425,QPR,Nicolas Madsen,DEN,MF,24,2000,31,20,1753,19.5,3,3,6,2,1,1,2,0,0.15,0.15,0.31,0.1,0.26
+ENG-Championship,2425,QPR,Paul Nardi,FRA,GK,30,1994,45,45,4050,45.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,QPR,Paul Smyth,NIR,"MF,FW",26,1997,43,30,2770,30.8,1,4,5,1,0,0,6,0,0.03,0.13,0.16,0.03,0.16
+ENG-Championship,2425,QPR,Rayan Kolli,ALG,"FW,MF",19,2005,20,9,822,9.1,4,2,6,4,0,0,2,0,0.44,0.22,0.66,0.44,0.66
+ENG-Championship,2425,QPR,Ronnie Edwards,ENG,"DF,MF",21,2003,21,20,1819,20.2,2,0,2,2,0,0,2,0,0.1,0.0,0.1,0.1,0.1
+ENG-Championship,2425,QPR,Sam Field,ENG,MF,26,1998,35,35,2905,32.3,3,0,3,3,0,0,8,0,0.09,0.0,0.09,0.09,0.09
+ENG-Championship,2425,QPR,Steve Cook,ENG,DF,33,1991,31,31,2617,29.1,2,0,2,2,0,0,4,0,0.07,0.0,0.07,0.07,0.07
+ENG-Championship,2425,QPR,Yang Minhyeok,KOR,"MF,FW",18,2006,14,8,692,7.7,2,1,3,2,0,0,1,0,0.26,0.13,0.39,0.26,0.39
+ENG-Championship,2425,QPR,Žan Celar,SVN,FW,25,1999,19,10,944,10.5,2,0,2,2,0,1,1,0,0.19,0.0,0.19,0.19,0.19
+ENG-Championship,2425,Sheffield United,Adam Davies,WAL,GK,32,1992,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Alfie Gilchrist,ENG,DF,20,2003,30,27,2103,23.4,0,2,2,0,0,0,5,0,0.0,0.09,0.09,0.0,0.09
+ENG-Championship,2425,Sheffield United,Andre Brooks,JAM,MF,20,2003,22,10,951,10.6,3,2,5,3,0,0,3,0,0.28,0.19,0.47,0.28,0.47
+ENG-Championship,2425,Sheffield United,Anel Ahmedhodžić,BIH,DF,25,1999,38,35,3136,34.8,3,1,4,3,0,0,11,1,0.09,0.03,0.11,0.09,0.11
+ENG-Championship,2425,Sheffield United,Anis Ben Slimane,TUN,MF,23,2001,3,0,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Auston Trusty,USA,DF,25,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Ben Brereton,CHI,MF,25,1999,17,13,984,10.9,4,3,7,4,0,0,4,0,0.37,0.27,0.64,0.37,0.64
+ENG-Championship,2425,Sheffield United,Billy Blacker,ENG,FW,18,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Callum O'Hare,ENG,MF,26,1998,44,38,3139,34.9,2,6,8,2,0,0,2,0,0.06,0.17,0.23,0.06,0.23
+ENG-Championship,2425,Sheffield United,Femi Seriki,ENG,DF,22,2002,25,8,1091,12.1,0,1,1,0,0,0,2,0,0.0,0.08,0.08,0.0,0.08
+ENG-Championship,2425,Sheffield United,Gustavo Hamer,NED,MF,27,1997,41,36,3124,34.7,9,7,16,9,0,0,13,0,0.26,0.2,0.46,0.26,0.46
+ENG-Championship,2425,Sheffield United,Hamza Choudhury,BAN,"MF,DF",26,1997,16,13,1105,12.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Harrison Burrows,ENG,DF,22,2002,43,39,3460,38.4,5,3,8,3,2,2,2,0,0.13,0.08,0.21,0.08,0.16
+ENG-Championship,2425,Sheffield United,Harry Clarke,ENG,DF,23,2001,6,6,472,5.2,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Harry Souttar,AUS,DF,25,1998,21,20,1768,19.6,0,0,0,0,0,0,5,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Jack Robinson,ENG,DF,30,1993,34,31,2841,31.6,0,0,0,0,0,0,9,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Jamal Baptiste,ENG,DF,20,2003,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Jamie Shackleton,ENG,"MF,DF",24,1999,12,2,291,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Jesurun Rak Sakyi,GHA,MF,21,2002,34,22,1725,19.2,7,2,9,7,0,0,1,0,0.37,0.1,0.47,0.37,0.47
+ENG-Championship,2425,Sheffield United,Kieffer Moore,WAL,FW,31,1992,27,18,1767,19.6,5,0,5,4,1,3,1,0,0.25,0.0,0.25,0.2,0.2
+ENG-Championship,2425,Sheffield United,Michael Cooper,ENG,GK,24,1999,43,43,3870,43.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Oliver Arblaster,ENG,MF,20,2004,12,11,978,10.9,2,1,3,2,0,0,3,0,0.18,0.09,0.28,0.18,0.28
+ENG-Championship,2425,Sheffield United,Rhian Brewster,ENG,"MF,FW",24,2000,36,16,1558,17.3,4,3,7,4,0,0,2,0,0.23,0.17,0.4,0.23,0.4
+ENG-Championship,2425,Sheffield United,Rhys Norrington-Davies,WAL,DF,25,1999,14,2,251,2.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Rob Holding,ENG,DF,28,1995,10,4,420,4.7,0,1,1,0,0,0,1,0,0.0,0.21,0.21,0.0,0.21
+ENG-Championship,2425,Sheffield United,Ryan One,SCO,FW,18,2006,12,2,292,3.2,1,0,1,1,0,0,2,0,0.31,0.0,0.31,0.31,0.31
+ENG-Championship,2425,Sheffield United,Sai Sachdev,ENG,DF,19,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield United,Sam McCallum,ENG,"DF,MF",23,2000,33,9,1057,11.7,2,0,2,2,0,0,1,0,0.17,0.0,0.17,0.17,0.17
+ENG-Championship,2425,Sheffield United,Sydie Peck,ENG,MF,19,2004,42,32,2927,32.5,0,2,2,0,0,0,6,0,0.0,0.06,0.06,0.0,0.06
+ENG-Championship,2425,Sheffield United,Tom Cannon,IRL,FW,21,2002,15,7,682,7.6,1,1,2,1,0,0,0,0,0.13,0.13,0.26,0.13,0.26
+ENG-Championship,2425,Sheffield United,Tom Davies,ENG,MF,26,1998,13,6,673,7.5,1,1,2,1,0,0,4,0,0.13,0.13,0.27,0.13,0.27
+ENG-Championship,2425,Sheffield United,Tyrese Campbell,ENG,FW,24,1999,33,20,1580,17.6,10,1,11,10,0,0,2,0,0.57,0.06,0.63,0.57,0.63
+ENG-Championship,2425,Sheffield United,Vinicius Souza,BRA,MF,25,1999,35,32,2787,31.0,0,1,1,0,0,0,8,0,0.0,0.03,0.03,0.0,0.03
+ENG-Championship,2425,Sheffield Weds,Akin Famewo,ENG,DF,25,1998,13,11,938,10.4,0,1,1,0,0,0,2,0,0.0,0.1,0.1,0.0,0.1
+ENG-Championship,2425,Sheffield Weds,Anthony Musaba,NED,"MF,FW",23,2000,29,12,1328,14.8,3,6,9,3,0,0,0,0,0.2,0.41,0.61,0.2,0.61
+ENG-Championship,2425,Sheffield Weds,Barry Bannan,SCO,MF,34,1989,41,40,3461,38.5,4,5,9,4,0,0,7,0,0.1,0.13,0.23,0.1,0.23
+ENG-Championship,2425,Sheffield Weds,Callum Paterson,SCO,"MF,FW",29,1994,27,14,1187,13.2,6,2,8,6,0,0,2,0,0.45,0.15,0.61,0.45,0.61
+ENG-Championship,2425,Sheffield Weds,Charlie McNeill,ENG,"FW,MF",20,2003,4,0,57,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Di'Shon Bernard,JAM,DF,23,2000,27,26,2235,24.8,2,0,2,2,0,0,9,2,0.08,0.0,0.08,0.08,0.08
+ENG-Championship,2425,Sheffield Weds,Djeidi Gassama,MTN,MF,20,2003,43,36,2975,33.1,7,1,8,7,0,0,4,0,0.21,0.03,0.24,0.21,0.24
+ENG-Championship,2425,Sheffield Weds,Dominic Iorfa,ENG,DF,29,1995,22,17,1435,15.9,1,0,1,1,0,0,4,0,0.06,0.0,0.06,0.06,0.06
+ENG-Championship,2425,Sheffield Weds,Gabriel Otegbayo,,DF,,,11,4,480,5.3,1,0,1,1,0,0,0,0,0.19,0.0,0.19,0.19,0.19
+ENG-Championship,2425,Sheffield Weds,Ibrahim Cissoko,NED,MF,21,2003,5,0,56,0.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Ike Ugbo,CAN,FW,25,1998,34,15,1278,14.2,0,0,0,0,0,1,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Jamal Lowe,JAM,"FW,MF",30,1994,24,12,960,10.7,3,2,5,3,0,0,2,0,0.28,0.19,0.47,0.28,0.47
+ENG-Championship,2425,Sheffield Weds,James Beadle,ENG,GK,20,2004,38,38,3420,38.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Josh Windass,ENG,"MF,FW",30,1994,44,38,3222,35.8,13,5,18,12,1,2,8,0,0.36,0.14,0.5,0.34,0.47
+ENG-Championship,2425,Sheffield Weds,Liam Palmer,SCO,"DF,MF",32,1991,23,7,876,9.7,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Marvin Johnson,ENG,"MF,DF",33,1990,41,30,2795,31.1,0,2,2,0,0,0,3,0,0.0,0.06,0.06,0.0,0.06
+ENG-Championship,2425,Sheffield Weds,Max Lowe,ENG,DF,27,1997,34,31,2684,29.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Michael Ihiekwe,ENG,DF,31,1992,22,20,1821,20.2,2,0,2,2,0,0,2,0,0.1,0.0,0.1,0.1,0.1
+ENG-Championship,2425,Sheffield Weds,Michael Smith,ENG,FW,32,1991,41,16,1844,20.5,8,4,12,7,1,1,3,0,0.39,0.2,0.59,0.34,0.54
+ENG-Championship,2425,Sheffield Weds,Nathaniel Chalobah,ENG,MF,29,1994,16,4,444,4.9,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Olaf Kobacki,POL,"FW,MF",23,2001,12,4,369,4.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Pierce Charles,NIR,GK,19,2005,8,8,720,8.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Pol Valentín,ESP,"MF,DF",27,1997,34,13,1527,17.0,1,0,1,1,0,0,4,0,0.06,0.0,0.06,0.06,0.06
+ENG-Championship,2425,Sheffield Weds,Ryo Hatsuse,JPN,DF,27,1997,6,5,348,3.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sheffield Weds,Shea Charles,NIR,MF,20,2003,43,42,3631,40.3,1,5,6,1,0,0,10,0,0.02,0.12,0.15,0.02,0.15
+ENG-Championship,2425,Sheffield Weds,Stuart Armstrong,SCO,MF,32,1992,11,6,536,6.0,0,1,1,0,0,0,0,0,0.0,0.17,0.17,0.0,0.17
+ENG-Championship,2425,Sheffield Weds,Svante Ingelsson,SWE,MF,26,1998,35,19,1692,18.8,1,5,6,1,0,0,5,0,0.05,0.27,0.32,0.05,0.32
+ENG-Championship,2425,Sheffield Weds,Yan Valery,TUN,"DF,MF",25,1999,39,38,3154,35.0,3,4,7,3,0,0,7,0,0.09,0.11,0.2,0.09,0.2
+ENG-Championship,2425,Stoke City,Ali Al Hamadi,IRQ,FW,22,2002,15,11,829,9.2,2,0,2,2,0,0,2,0,0.22,0.0,0.22,0.22,0.22
+ENG-Championship,2425,Stoke City,Andrew Moran,IRL,MF,20,2003,35,26,2357,26.2,4,3,7,4,0,0,9,0,0.15,0.11,0.27,0.15,0.27
+ENG-Championship,2425,Stoke City,André Vidigal,ANG,"FW,MF",25,1998,10,0,104,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Ashley Phillips,WAL,DF,19,2005,35,35,3077,34.2,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Bae Jun-ho,KOR,MF,20,2003,45,37,3260,36.2,3,5,8,3,0,0,5,0,0.08,0.14,0.22,0.08,0.22
+ENG-Championship,2425,Stoke City,Ben Gibson,ENG,DF,31,1993,24,22,1946,21.6,3,0,3,3,0,0,6,0,0.14,0.0,0.14,0.14,0.14
+ENG-Championship,2425,Stoke City,Ben Pearson,ENG,MF,29,1995,13,8,570,6.3,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Ben Wilmot,ENG,DF,24,1999,39,36,3242,36.0,3,0,3,3,0,0,9,0,0.08,0.0,0.08,0.08,0.08
+ENG-Championship,2425,Stoke City,Bosun Lawal,IRL,DF,21,2003,7,1,206,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Daniel Johnson,JAM,MF,31,1992,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Emre Tezgel,ENG,FW,18,2005,12,2,298,3.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Enda Stevens,IRL,DF,34,1990,18,13,1194,13.3,0,2,2,0,0,0,3,0,0.0,0.15,0.15,0.0,0.15
+ENG-Championship,2425,Stoke City,Eric Bocat,FRA,DF,25,1999,30,23,2041,22.7,0,1,1,0,0,0,1,0,0.0,0.04,0.04,0.0,0.04
+ENG-Championship,2425,Stoke City,Jaden Dixon,ENG,DF,17,2007,2,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Jordan Thompson,NIR,MF,27,1997,23,13,1353,15.0,0,1,1,0,0,0,7,0,0.0,0.07,0.07,0.0,0.07
+ENG-Championship,2425,Stoke City,Josh Laurent,ENG,MF,29,1995,3,3,270,3.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Josh Wilson-Esbrand,ENG,"DF,MF",21,2002,6,4,269,3.0,0,1,1,0,0,0,0,0,0.0,0.33,0.33,0.0,0.33
+ENG-Championship,2425,Stoke City,Junior Tchamadeu,CMR,DF,20,2003,41,35,3136,34.8,1,2,3,1,0,0,10,0,0.03,0.06,0.09,0.03,0.09
+ENG-Championship,2425,Stoke City,Lewis Baker,ENG,MF,29,1995,19,16,1475,16.4,6,2,8,4,2,2,3,0,0.37,0.12,0.49,0.24,0.37
+ENG-Championship,2425,Stoke City,Lewis Koumas,WAL,MF,18,2005,43,26,2441,27.1,3,2,5,3,0,0,5,0,0.11,0.07,0.18,0.11,0.18
+ENG-Championship,2425,Stoke City,Lynden Gooch,USA,"DF,MF",28,1995,20,12,1038,11.5,0,1,1,0,0,0,3,0,0.0,0.09,0.09,0.0,0.09
+ENG-Championship,2425,Stoke City,Michael Rose,SCO,DF,28,1995,22,13,1296,14.4,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Million Manhoef,NED,"MF,FW",22,2002,34,28,2422,26.9,5,5,10,5,0,0,1,0,0.19,0.19,0.37,0.19,0.37
+ENG-Championship,2425,Stoke City,Nathan Lowe,ENG,"FW,MF",18,2005,10,5,468,5.2,1,0,1,1,0,0,2,0,0.19,0.0,0.19,0.19,0.19
+ENG-Championship,2425,Stoke City,Niall Ennis,ENG,FW,25,1999,9,1,195,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Ryan Mmaee,MAR,FW,26,1997,3,1,111,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Sam Gallagher,ENG,"FW,MF",28,1995,22,9,1024,11.4,3,1,4,3,0,0,5,0,0.26,0.09,0.35,0.26,0.35
+ENG-Championship,2425,Stoke City,Sol Sidibé,ENG,MF,17,2007,8,3,306,3.4,0,1,1,0,0,0,0,0,0.0,0.29,0.29,0.0,0.29
+ENG-Championship,2425,Stoke City,Tatsuki Seko,JPN,MF,26,1997,25,18,1597,17.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Tom Cannon,IRL,FW,21,2002,22,22,1857,20.6,9,1,10,6,3,4,3,0,0.44,0.05,0.48,0.29,0.34
+ENG-Championship,2425,Stoke City,Viktor Johansson,SWE,GK,25,1998,46,46,4140,46.0,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Stoke City,Wouter Burger,NED,MF,23,2001,39,37,3002,33.4,1,1,2,1,0,0,10,0,0.03,0.03,0.06,0.03,0.06
+ENG-Championship,2425,Sunderland,Aaron Connolly,IRL,"MF,FW",24,2000,10,2,246,2.7,1,0,1,1,0,0,0,0,0.37,0.0,0.37,0.37,0.37
+ENG-Championship,2425,Sunderland,Adil Aouchiche,ALG,MF,22,2002,8,3,296,3.3,0,1,1,0,0,0,0,0,0.0,0.3,0.3,0.0,0.3
+ENG-Championship,2425,Sunderland,Ajibola Alese,ENG,DF,23,2001,12,8,703,7.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Alan Browne,IRL,"MF,DF",29,1995,22,13,1212,13.5,1,0,1,1,0,0,1,0,0.07,0.0,0.07,0.07,0.07
+ENG-Championship,2425,Sunderland,Anthony Patterson,ENG,GK,24,2000,42,42,3780,42.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Chris Mepham,WAL,DF,26,1997,38,37,3273,36.4,1,0,1,1,0,0,10,1,0.03,0.0,0.03,0.03,0.03
+ENG-Championship,2425,Sunderland,Chris Rigg,ENG,"MF,FW",17,2007,42,36,3055,33.9,4,1,5,4,0,0,8,0,0.12,0.03,0.15,0.12,0.15
+ENG-Championship,2425,Sunderland,Dan Neil,ENG,MF,22,2001,44,44,3877,43.1,2,3,5,2,0,0,4,1,0.05,0.07,0.12,0.05,0.12
+ENG-Championship,2425,Sunderland,Daniel Ballard,NIR,DF,24,1999,20,12,1127,12.5,2,1,3,2,0,0,3,0,0.16,0.08,0.24,0.16,0.24
+ENG-Championship,2425,Sunderland,Dennis Cirkin,LVA,DF,22,2002,36,30,2740,30.4,3,2,5,3,0,0,6,0,0.1,0.07,0.16,0.1,0.16
+ENG-Championship,2425,Sunderland,Eliezer Mayenda,ESP,"FW,MF",19,2005,37,22,2155,23.9,8,5,13,8,0,0,2,0,0.33,0.21,0.54,0.33,0.54
+ENG-Championship,2425,Sunderland,Enzo Le Fée,FRA,MF,24,2000,15,11,1001,11.1,1,1,2,1,0,0,2,0,0.09,0.09,0.18,0.09,0.18
+ENG-Championship,2425,Sunderland,Harrison Jones,ENG,MF,19,2004,4,2,132,1.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Ian Poveda,ENG,"FW,MF",24,2000,6,0,86,1.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Jack Clarke,ENG,MF,23,2000,2,2,179,2.0,1,1,2,1,0,0,0,0,0.5,0.5,1.01,0.5,1.01
+ENG-Championship,2425,Sunderland,Jenson Seelt,NED,DF,21,2003,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Jobe Bellingham,ENG,MF,18,2005,40,39,3507,39.0,4,3,7,4,0,0,10,1,0.1,0.08,0.18,0.1,0.18
+ENG-Championship,2425,Sunderland,Joe Anderson,ENG,DF,23,2001,2,1,99,1.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Leo Fuhr Hjelde,NOR,DF,20,2003,15,5,410,4.6,0,1,1,0,0,0,3,0,0.0,0.22,0.22,0.0,0.22
+ENG-Championship,2425,Sunderland,Luke O'Nien,ENG,DF,29,1994,45,44,3934,43.7,3,1,4,3,0,1,9,0,0.07,0.02,0.09,0.07,0.09
+ENG-Championship,2425,Sunderland,Milan Aleksić,SRB,MF,18,2005,8,3,290,3.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Nazariy Rusyn,UKR,"FW,MF",25,1998,8,0,72,0.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Nectarios Triantis,GRE,"DF,MF",21,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Patrick Roberts,ENG,"MF,FW",27,1997,45,38,3280,36.4,2,7,9,1,1,2,8,0,0.05,0.19,0.25,0.03,0.22
+ENG-Championship,2425,Sunderland,Romaine Mundle,ENG,"MF,FW",21,2003,22,17,1433,15.9,5,2,7,5,0,0,1,0,0.31,0.13,0.44,0.31,0.44
+ENG-Championship,2425,Sunderland,Salis Abdul Samed,GHA,MF,24,2000,10,3,283,3.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Simon Moore,ENG,GK,34,1990,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Sunderland,Tom Watson,ENG,MF,18,2006,20,11,891,9.9,2,0,2,2,0,0,2,0,0.2,0.0,0.2,0.2,0.2
+ENG-Championship,2425,Sunderland,Trai Hume,NIR,DF,22,2002,44,43,3810,42.3,3,6,9,3,0,0,11,1,0.07,0.14,0.21,0.07,0.21
+ENG-Championship,2425,Sunderland,Wilson Isidor,HAI,FW,23,2000,43,34,3112,34.6,12,2,14,12,0,2,9,0,0.35,0.06,0.4,0.35,0.4
+ENG-Championship,2425,Swansea City,Azeem Abdulai,SCO,MF,21,2002,17,2,348,3.9,1,0,1,1,0,0,1,0,0.26,0.0,0.26,0.26,0.26
+ENG-Championship,2425,Swansea City,Ben Cabango,WAL,DF,24,2000,45,45,4032,44.8,2,1,3,2,0,0,9,0,0.04,0.02,0.07,0.04,0.07
+ENG-Championship,2425,Swansea City,Ben Lloyd,WAL,MF,19,2005,2,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Swansea City,Cyrus Christie,IRL,DF,31,1992,11,2,282,3.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Swansea City,Eom Ji-sung,KOR,MF,22,2002,37,28,2287,25.4,3,2,5,3,0,0,2,0,0.12,0.08,0.2,0.12,0.2
+ENG-Championship,2425,Swansea City,Florian Bianchini,FRA,FW,23,2001,36,8,1103,12.3,3,0,3,3,0,0,2,0,0.24,0.0,0.24,0.24,0.24
+ENG-Championship,2425,Swansea City,Gonçalo Franco,POR,MF,23,2000,40,39,3141,34.9,2,2,4,2,0,0,6,0,0.06,0.06,0.11,0.06,0.11
+ENG-Championship,2425,Swansea City,Hannes Delcroix,HAI,DF,25,1999,12,10,888,9.9,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Swansea City,Harry Darling,ENG,DF,24,1999,39,38,3335,37.1,5,3,8,5,0,0,4,1,0.13,0.08,0.22,0.13,0.22
+ENG-Championship,2425,Swansea City,Jay Fulton,SCO,MF,30,1994,31,13,1289,14.3,1,0,1,1,0,0,6,0,0.07,0.0,0.07,0.07,0.07
+ENG-Championship,2425,Swansea City,Joe Allen,WAL,MF,34,1990,25,8,709,7.9,1,1,2,1,0,0,2,0,0.13,0.13,0.25,0.13,0.25
+ENG-Championship,2425,Swansea City,Josh Ginnelly,ENG,"FW,MF",27,1997,3,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Swansea City,Josh Key,ENG,DF,24,1999,45,39,3469,38.5,1,3,4,1,0,0,3,0,0.03,0.08,0.1,0.03,0.1
+ENG-Championship,2425,Swansea City,Josh Tymon,ENG,DF,25,1999,45,44,3940,43.8,2,7,9,2,0,1,7,0,0.05,0.16,0.21,0.05,0.21
+ENG-Championship,2425,Swansea City,Joshua Thomas,WAL,FW,21,2002,1,0,1,0.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Swansea City,Kyle Naughton,ENG,DF,35,1988,23,9,826,9.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Swansea City,Lawrence Vigouroux,CHI,GK,30,1993,46,46,4140,46.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Swansea City,Lewis O'Brien,ENG,MF,25,1998,16,16,1419,15.8,1,0,1,1,0,0,2,0,0.06,0.0,0.06,0.06,0.06
+ENG-Championship,2425,Swansea City,Liam Cullen,WAL,"MF,FW",25,1999,42,35,2995,33.3,11,3,14,11,0,0,8,0,0.33,0.09,0.42,0.33,0.42
+ENG-Championship,2425,Swansea City,Matt Grimes,ENG,MF,29,1995,29,29,2610,29.0,2,1,3,1,1,1,4,0,0.07,0.03,0.1,0.03,0.07
+ENG-Championship,2425,Swansea City,Myles Peart-Harris,ENG,MF,21,2002,29,18,1665,18.5,3,4,7,3,0,0,6,0,0.16,0.22,0.38,0.16,0.38
+ENG-Championship,2425,Swansea City,Nathan Tjoe-A-On,IDN,DF,22,2001,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Swansea City,Oliver Cooper,WAL,MF,24,1999,28,10,1042,11.6,1,1,2,1,0,0,0,0,0.09,0.09,0.17,0.09,0.17
+ENG-Championship,2425,Swansea City,Ronald,BRA,MF,23,2001,46,43,3761,41.8,2,7,9,2,0,0,3,0,0.05,0.17,0.22,0.05,0.22
+ENG-Championship,2425,Swansea City,Samuel Parker,WAL,DF,18,2006,7,0,86,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Swansea City,Žan Vipotnik,SVN,FW,22,2002,42,24,2087,23.2,7,0,7,6,1,1,1,0,0.3,0.0,0.3,0.26,0.26
+ENG-Championship,2425,Watford,Amin Nabizada,AFG,FW,17,2007,1,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Angelo Ogbonna,ITA,DF,36,1988,6,5,398,4.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Caleb Wiley,USA,"DF,MF",19,2004,10,8,722,8.0,0,1,1,0,0,0,0,0,0.0,0.12,0.12,0.0,0.12
+ENG-Championship,2425,Watford,Daniel Bachmann,AUT,GK,30,1994,22,22,1902,21.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Daniel Jebbison,CAN,FW,20,2003,13,3,387,4.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Edo Kayembe,COD,"MF,FW",26,1998,44,37,3196,35.5,8,1,9,6,2,2,11,1,0.23,0.03,0.25,0.17,0.2
+ENG-Championship,2425,Watford,Egil Selvik,NOR,GK,27,1997,16,16,1440,16.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Festy Ebosele,IRL,"MF,DF",21,2002,18,7,757,8.4,1,1,2,1,0,0,7,0,0.12,0.12,0.24,0.12,0.24
+ENG-Championship,2425,Watford,Francisco Sierralta,CHI,DF,27,1997,33,21,1897,21.1,0,0,0,0,0,0,9,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Giorgi Chakvetadze,GEO,"MF,FW",24,1999,39,37,3281,36.5,2,6,8,2,0,0,6,0,0.05,0.16,0.22,0.05,0.22
+ENG-Championship,2425,Watford,Imran Louza,MAR,MF,25,1999,33,30,2677,29.7,2,5,7,2,0,0,11,0,0.07,0.17,0.24,0.07,0.24
+ENG-Championship,2425,Watford,James Abankwah,IRL,DF,20,2004,19,17,1384,15.4,0,0,0,0,0,0,4,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,James Morris,ENG,DF,22,2001,18,13,1086,12.1,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Jeremy Ngakia,,"DF,MF",23,2000,29,23,1883,20.9,1,0,1,1,0,0,5,0,0.05,0.0,0.05,0.05,0.05
+ENG-Championship,2425,Watford,Jonathan Bond,ENG,GK,31,1993,9,8,798,8.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Ken Sema,SWE,MF,30,1993,14,4,521,5.8,0,1,1,0,0,0,0,0,0.0,0.17,0.17,0.0,0.17
+ENG-Championship,2425,Watford,Kwadwo Baah,ENG,"MF,FW",21,2003,27,16,1459,16.2,4,3,7,4,0,0,5,1,0.25,0.19,0.43,0.25,0.43
+ENG-Championship,2425,Watford,Kévin Keben,CMR,DF,20,2004,6,3,256,2.8,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Mamadou Doumbia,MLI,FW,18,2006,19,12,968,10.8,2,0,2,2,0,0,2,0,0.19,0.0,0.19,0.19,0.19
+ENG-Championship,2425,Watford,Matthew Pollock,ENG,DF,22,2001,45,42,3815,42.4,2,4,6,2,0,0,7,0,0.05,0.09,0.14,0.05,0.14
+ENG-Championship,2425,Watford,Michael Adu-Poku,ENG,FW,18,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Mileta Rajovic,DEN,FW,25,1999,3,0,46,0.5,1,0,1,1,0,0,2,0,1.96,0.0,1.96,1.96,1.96
+ENG-Championship,2425,Watford,Moussa Sissoko,FRA,MF,34,1989,40,33,2888,32.1,6,1,7,6,0,0,6,1,0.19,0.03,0.22,0.19,0.22
+ENG-Championship,2425,Watford,Pierre Dwomoh,BEL,MF,20,2004,9,6,530,5.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,Watford,Rocco Vata,IRL,"MF,FW",19,2005,33,15,1536,17.1,3,4,7,3,0,0,0,0,0.18,0.23,0.41,0.18,0.41
+ENG-Championship,2425,Watford,Ryan Andrews,ENG,"MF,DF",19,2004,38,21,2086,23.2,3,2,5,3,0,0,3,0,0.13,0.09,0.22,0.13,0.22
+ENG-Championship,2425,Watford,Ryan Porteous,SCO,DF,25,1999,22,18,1662,18.5,2,0,2,2,0,0,7,0,0.11,0.0,0.11,0.11,0.11
+ENG-Championship,2425,Watford,Tom Dele-Bashiru,NGA,MF,24,1999,27,25,2064,22.9,4,0,4,1,3,3,0,0,0.17,0.0,0.17,0.04,0.04
+ENG-Championship,2425,Watford,Tom Ince,ENG,MF,32,1992,32,13,1289,14.3,1,1,2,0,1,1,1,0,0.07,0.07,0.14,0.0,0.07
+ENG-Championship,2425,Watford,Vakoun Bayo,CIV,FW,27,1997,41,25,2242,24.9,10,0,10,9,1,1,5,1,0.4,0.0,0.4,0.36,0.36
+ENG-Championship,2425,Watford,Yasser Larouci,ALG,"MF,DF",23,2001,39,26,2136,23.7,0,3,3,0,0,0,3,0,0.0,0.13,0.13,0.0,0.13
+ENG-Championship,2425,Watford,Zavier Massiah,ENG,FW,17,2007,4,0,58,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Adam Armstrong,ENG,"FW,MF",27,1997,16,12,1008,11.2,3,0,3,2,1,1,0,0,0.27,0.0,0.27,0.18,0.18
+ENG-Championship,2425,West Brom,Alex Mowatt,ENG,MF,29,1995,43,39,3351,37.2,7,2,9,7,0,0,5,0,0.19,0.05,0.24,0.19,0.24
+ENG-Championship,2425,West Brom,Alex Palmer,ENG,GK,27,1996,30,30,2700,30.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Callum Styles,HUN,"DF,MF",24,2000,34,29,2613,29.0,3,1,4,3,0,0,11,1,0.1,0.03,0.14,0.1,0.14
+ENG-Championship,2425,West Brom,Darnell Furlong,ENG,DF,28,1995,42,42,3706,41.2,1,3,4,1,0,0,8,1,0.02,0.07,0.1,0.02,0.1
+ENG-Championship,2425,West Brom,Daryl Dike,USA,MF,24,2000,11,1,227,2.5,1,1,2,1,0,0,1,0,0.4,0.4,0.79,0.4,0.79
+ENG-Championship,2425,West Brom,Devante Cole,ENG,FW,29,1995,14,0,163,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Gianluca Frabotta,ITA,"DF,MF",25,1999,6,0,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Grady Diangana,COD,"MF,FW",26,1998,34,14,1494,16.6,4,3,7,4,0,0,1,0,0.24,0.18,0.42,0.24,0.42
+ENG-Championship,2425,West Brom,Harry Whitwell,ENG,MF,18,2005,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Isaac Price,NIR,MF,20,2003,15,13,1049,11.7,1,1,2,1,0,0,2,0,0.09,0.09,0.17,0.09,0.17
+ENG-Championship,2425,West Brom,Jayson Molumby,IRL,MF,24,1999,37,30,2702,30.0,4,1,5,4,0,0,11,1,0.13,0.03,0.17,0.13,0.17
+ENG-Championship,2425,West Brom,Jed Wallace,ENG,"MF,FW",30,1994,29,6,809,9.0,1,1,2,1,0,0,2,0,0.11,0.11,0.22,0.11,0.22
+ENG-Championship,2425,West Brom,Joe Wildsmith,ENG,GK,28,1995,10,10,900,10.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,John Swift,ENG,MF,29,1995,36,19,1741,19.3,3,1,4,3,0,0,4,0,0.16,0.05,0.21,0.16,0.21
+ENG-Championship,2425,West Brom,Josh Maja,NGA,FW,25,1998,26,26,2056,22.8,12,2,14,12,0,0,2,0,0.53,0.09,0.61,0.53,0.61
+ENG-Championship,2425,West Brom,Joshua Griffiths,ENG,GK,22,2001,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Karlan Grant,ENG,"MF,FW",26,1997,43,34,2930,32.6,7,2,9,7,0,0,2,0,0.22,0.06,0.28,0.22,0.28
+ENG-Championship,2425,West Brom,Kyle Bartley,ENG,DF,33,1991,31,30,2610,29.0,0,0,0,0,0,0,5,1,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Lewis Dobbin,ENG,MF,21,2003,17,1,340,3.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Mason Holgate,JAM,DF,27,1996,26,21,1983,22.0,1,1,2,1,0,0,2,0,0.05,0.05,0.09,0.05,0.09
+ENG-Championship,2425,West Brom,Michael Johnston,IRL,MF,25,1999,40,25,2069,23.0,3,5,8,3,0,0,3,0,0.13,0.22,0.35,0.13,0.35
+ENG-Championship,2425,West Brom,Ousmane Diakité,MLI,"MF,DF",24,2000,22,9,860,9.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Paddy McNair,NIR,DF,29,1995,2,2,93,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Semi Ajayi,NGA,DF,30,1993,15,14,1228,13.6,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+ENG-Championship,2425,West Brom,Tamer Bani Odeh,JOR,FW,20,2003,4,0,53,0.6,0,1,1,0,0,0,1,0,0.0,1.7,1.7,0.0,1.7
+ENG-Championship,2425,West Brom,Tom Fellows,ENG,MF,21,2003,45,35,2872,31.9,4,14,18,4,0,0,4,0,0.13,0.44,0.56,0.13,0.56
+ENG-Championship,2425,West Brom,Torbjørn Heggem,NOR,DF,25,1999,45,45,4010,44.6,1,2,3,1,0,0,3,0,0.02,0.04,0.07,0.02,0.07
+ENG-Championship,2425,West Brom,Uroš Račić,SRB,MF,26,1998,21,9,916,10.2,0,2,2,0,0,0,2,0,0.0,0.2,0.2,0.0,0.2
+ENG-Championship,2425,West Brom,Will Lankshear,ENG,FW,19,2005,11,4,350,3.9,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
