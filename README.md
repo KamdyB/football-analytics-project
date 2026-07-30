@@ -2,21 +2,11 @@
 
 A football analytics project exploring player performance in the 2024–25 EFL Championship using Python, SQL, and Power BI.
 
-## Project Overview
+## Project Objective
 
-This project investigates player and match data to identify recruitment insights, evaluate player performance, and build an end-to-end football analytics workflow.
+Analyze the 2024/25 EFL Championship season using Python to build a reproducible football analytics pipeline, from data acquisition and validation through exploratory analysis and visualisation.
 
-The project follows a realistic data analytics pipeline:
-
-- Data collection using the SoccerData library
-- Data inspection and cleaning
-- Feature engineering
-- SQL analysis
-- Interactive Power BI dashboard
-
----
-
-## Dataset
+## Data
 
 Source: FBref (accessed through the SoccerData Python library)
 
@@ -45,48 +35,15 @@ Data includes:
 
 ---
 
-## Project Structure
-
-```
-project/
-│
-├── data/
-│   ├── championship_schedule_2024_25.csv
-│   └── championship_player_stats_2024_25.csv
-│
-├── notebooks/
-│
-├── sql/
-│
-├── dashboard/
-│
-├── images/
-│
-└── README.md
-```
-
----
-
 ## Current Progress
 
-- ✅ Data collected from FBref using SoccerData
-- ✅ Dataset inspection completed
-- ✅ Initial data cleaning completed
-- ⏳ Feature engineering
-- ⏳ SQL analysis
-- ⏳ Power BI dashboard
+Completed project setup, built reusable utility functions, and implemented an initial data inspection workflow.
 
 ---
 
-## Future Analysis
+## Roadmap
 
-The project will answer questions such as:
-
-- Which midfielders contribute the most to attacking play?
-- Which players provide the best value per 90 minutes?
-- Which clubs attract the highest attendance?
-- Which players combine consistency with versatility?
-- Which footballers represent strong recruitment opportunities?
+Data acquisition → inspection → cleaning → feature engineering → exploratory analysis → visualizations → reporting.
 
 ---
 

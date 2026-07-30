@@ -1,0 +1,7 @@
+pandas
+soccerdata
+python
+numpy
+matplotlib
+git
+github
