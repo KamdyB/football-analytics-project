@@ -1,20 +1,10 @@
 def calculate_goal_difference(goals_for, goals_against):
-    goal_diff = goals_for - goals_against
-    return goal_diff
-print(calculate_goal_difference(34, 20))
+    return goals_for - goals_against
 
 
 def calculate_player_age(year_born, current_year):
     age = current_year - year_born
     return age
-print(calculate_player_age(2009, 2026))
-
-
-def clean_column_name(column_name):
-    column_name = column_name.lower()
-    column_name = column_name.replace(' ', '_')
-    return column_name
-print(clean_column_name('Minutes PLayed'))
 
 
 goals = [75, 68, 81, 59]
@@ -22,12 +12,11 @@ goals = [75, 68, 81, 59]
 def find_highest_goals(goals):
     highest_goal = max(goals)
     return highest_goal
-print(find_highest_goals(goals))
+
 
 def calculate_avg_goals(goals):
     avg_goals = sum(goals)/len(goals)
     return avg_goals
-print(calculate_avg_goals(goals))
 
 
 def classify_team_attack(goals):
@@ -39,9 +28,35 @@ def classify_team_attack(goals):
         return 'Average Attack'
     else:
         return 'Weak Attack'
-print(classify_team_attack(81))
-print(classify_team_attack(67))
-print(classify_team_attack(52))
-print(classify_team_attack(31))
 
+
+def calculate_points(wins, draws):
+    points = wins*3 + draws
+    return points
+
+
+def minutes_per_90(minutes_played):
+    mins_per90 = minutes_played/90.0
+    return mins_per90
+
+
+def player_age_group(age):
+    if age < 0:
+        raise ValueError('Age cannot be negative!')
+    elif age < 21:
+        return 'Young Talent'
+    elif age <= 28:
+        return 'Prime Years'
+    else:
+        return 'Experienced'
+
+
+def clean_column_names(column):
+    column = column.strip()
+    column = column.replace(' ', '_')
+    column = column.lower()
+    return column
+
+
+ 
 
