@@ -1,3 +1,41 @@
+import pandas as pd
+
+
+def combine_fbref_headers(df):
+    header1 = df.iloc[0]
+    header2 = df.iloc[1]
+    header3 = df.iloc[2]
+    new_column_names = []
+
+    for col in range(df.shape[1]):
+        top = header1[col]
+        middle = header2[col]
+        bottom = header3[col]
+        if pd.notna(bottom):
+            name = bottom
+        elif pd.notna(middle):
+            name = middle
+        elif pd.notna(top):
+            name = top
+        else:
+            name = f'column_{col}'
+        name = (
+            str(name)
+            .strip()
+            .lower()
+            .replace(' ', '_')
+            .replace('g+a-pk', 'g_and_a_nonpk')
+            .replace('g-pk', 'g_nonpk')
+            .replace('g+a', 'g_and_a')
+        )
+        new_column_names.append(name)
+    clean_data = df.iloc[3:].copy()
+    clean_data.columns = new_column_names
+    clean_data.reset_index(drop=True, inplace=True)
+    return clean_data
+
+
+
 def calculate_goal_difference(goals_for, goals_against):
     return goals_for - goals_against
 
@@ -48,12 +86,6 @@ def player_age_group(age):
     else:
         return 'Experienced'
 
-
-def clean_column_names(column):
-    column = column.strip()
-    column = column.replace(' ', '_')
-    column = column.lower()
-    return column
 
 def team_report(players, goals, assists, passes):
     total_goals = 0
@@ -106,4 +138,27 @@ def team_report(players, goals, assists, passes):
     '\nTop Match Contributor: ', highest_contributor, 'with ', highest_contributor_goals, 'goals, ', highest_contributor_assists, 'assists and ', highest_contribution, 'contribution.']
     return team_report_card
 
+def goal_contribution(goals, assists):
+    return goals + assists
 
+
+def goals_per90(goals, ninetys):
+    return goals / ninetys
+
+def minutes_per_match(minutes, matches):
+    return minutes / matches
+
+def add_goal_contribution(df):
+    df['goal_contribution'] = (df['gls'] + df['ast'])
+    return df
+
+def add_goals_per90(df):
+     df['goals_per90'] = (df['gls'] / df['90s'])
+     return df
+
+def assists_per90(df):
+    df['assists_per90'] = (df['ast'] / df['90s'])
+    return df
+
+def goal_involvement_percentage(df):
+    df['goal_involvement_percentage'] = ((df['goal_contribution'] / df['matches']) * 100)
