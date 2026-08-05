@@ -1,217 +1,86 @@
-# ⚽ Football Analytics Project
+# ⚽ Football Analytics — EFL Championship 2024–25
 
-A Python-based football analytics engineering project focused on building a reproducible data pipeline for analyzing the 2024/25 EFL Championship season. This repository documents my transition from writing standalone Python scripts to developing modular, maintainable software for football data analysis.
+A Python data pipeline pulling FBref match and player data via `soccerdata`,
+with reusable, validated football-metric functions and a dataset-inspection
+workflow. Built as a portfolio project documenting real progress, including
+the parts that needed rework rather than a polished-from-day-one repo.
 
-Rather than treating analytics as isolated notebooks or one-off scripts, this project is being developed as an engineering codebase where reusable functions, structured workflows, and version control are prioritized from the beginning.
+## What's actually here right now
 
----
+- **`scripts/scrape_fbref.py`** — configures `soccerdata`'s league mapping
+  and pulls match schedule + player season stats from FBref, saved to CSV.
+- **`scripts/football_utils.py`** — reusable functions for football-specific
+  calculations: per-90 stats, goal contribution, points, age classification,
+  and a header-flattening function that handles FBref's messy multi-row
+  column headers. Every calculation validates its inputs (zero-division
+  guards, missing-column checks, length checks) before returning a result.
+- **`scripts/analyse_data.py`** — dataset inspection workflow (`head`,
+  `shape`, `info`, `isna().sum()`, `describe()`) used to validate a dataset
+  before analysis begins.
+- **`sql/analytical_queries.sql`** — scouting-style SQL queries at varying
+  complexity levels.
 
-# 🎯 Project Objective
+## Why this looks like scripts, not a finished notebook
 
-The goal of this project is to build a complete football analytics pipeline that follows the same stages used in professional data teams:
+This started as modular scripts, following a standard engineering
+instinct: split code into reusable pieces. Working through it surfaced a
+more useful lesson — **for a football analytics portfolio, the football
+reasoning needs to be visible, not buried behind function calls.** 
 
-* Data acquisition
-* Data inspection and validation
-* Data cleaning
-* Feature engineering
-* Exploratory data analysis
-* Data visualization
-* Analytical reporting
+That's driving the next stage of this project: consolidating the analysis
+into a single notebook structured around football questions
+(`championship_analysis.py`), while keeping the ETL scripts here as
+the data-acquisition layer feeding it.
 
-Every stage of development is version-controlled and documented to demonstrate both analytical reasoning and software engineering practices.
+## Data reliability — what I assumed, and what I checked
 
----
+| Failure point | What could go wrong | How it's handled | Why |
+|---|---|---|---|
+| Any per-90 / per-match calculation | Denominator is 0 (unused player, no matches played) | Raises `ValueError` before returning a result | An `inf` or `NaN` stat would silently corrupt a scouting comparison — better to stop and flag it |
+| Adding a calculated column to a DataFrame | Expected source column (`gls`, `90s`, etc.) is missing or renamed upstream | `_require_columns()` raises a clear `KeyError` naming the missing column | A missing column should fail immediately at the source, not surface as a confusing error three functions later |
+| `team_report()` | Input lists (`players`, `goals`, `assists`, `passes`) are different lengths, or empty | Raises `ValueError` before any calculation runs | A silent length mismatch would `zip()` correctly but attribute goals/assists to the wrong player |
+| FBref multi-row headers | A column has no usable header at any of the three header rows | Falls back to a generated `column_N` name instead of crashing | Keeps the pipeline running on partial header data, since this is a labeling gap, not a data-integrity one |
 
-# 📊 Data Source
+This mirrors a broader rule I try to follow: **decide on purpose whether a
+given failure should stop the program or degrade gracefully; don't let
+that decision happen by accident.**
 
-This project uses football data from **FBref**, accessed programmatically through the `soccerdata` Python library. During development, datasets may also be stored locally as CSV files for testing and reproducibility.
+## Recently fixed (previously flagged, now resolved)
 
----
+- Removed duplicate calculation logic — `add_*(df)` functions now call the
+  underlying scalar functions instead of re-implementing the same math.
+- Fixed `add_goal_involvement_percentage` silently missing a `return`
+  statement.
+- `team_report()` rewritten to return a properly formatted string instead
+  of a malformed mixed list of strings and numbers.
 
-# 🛠️ Technologies
+## Tech
 
-* Python
-* Pandas
-* NumPy
-* soccerdata
-* Matplotlib
-* Git
-* GitHub
+Python • Pandas • `soccerdata` • SQL • Git
 
----
+## Data source
 
-# 📂 Current Repository Structure
+FBref, accessed via the `soccerdata` library. CSVs stored locally in
+`data/` during development for reproducibility.
 
-```text
-football-analytics-project/
-│
-├── dashboard/
-│   └── scouting_dashboard...
-│
-├── data/
-│   ├── championship_player_stats.csv
-│   └── championship_schedule.csv
-│
-├── downloaded_files/
-│   └── (temporary downloaded datasets)
-│
-├── scripts/
-│   ├── analyse_data.py
-│   ├── football_utils.py
-│   └── scrape_fbref.py
-│
-├── sql/
-│   └── analytical_queries.sql
-│
-├── README.md
-└── requirements.txt
-```
-
-This structure will continue evolving as additional modules are introduced for data loading, cleaning, validation, feature engineering, and visualization.
-
-## 📁 Directory Overview
-
-| Folder | Purpose |
-|---------|---------|
-| **dashboard/** | Stores dashboards and visualizations created during the project. |
-| **data/** | Contains Championship datasets used for analysis. |
-| **downloaded_files/** | Temporary storage for downloaded data before processing. |
-| **scripts/** | Core Python scripts for scraping, utility functions, and analysis workflows. |
-| **sql/** | SQL queries used for analytical tasks and database exploration. |
-
----
-
-# 🚀 Current Progress
-
-### ✅ Project Setup
-
-* Initialized Git repository
-* Organized project structure
-* Created reusable utility module
-
-### ✅ Reusable Football Functions
-
-Implemented reusable functions including:
-
-* Goal difference calculation
-* League points calculation
-* Minutes per 90 calculation
-* Player age classification
-* Column name standardization
-
-### ✅ Dataset Inspection Workflow
-
-Built an inspection workflow for newly imported datasets using:
-
-* `head()`
-* `shape`
-* `columns`
-* `info()`
-* `isna().sum()`
-* `describe()`
-
-This ensures datasets are validated before analysis begins.
-
----
-
-# 🧠 Engineering Principles Practiced
-
-This repository emphasizes software engineering concepts alongside data analysis, including:
-
-* Modular programming
-* Reusable functions
-* Single Responsibility Principle
-* Data validation before analysis
-* Consistent naming conventions
-* Version control with Git
-* Incremental project development
-
----
-
-# 🗺️ Roadmap
-
-## Phase 1 — Project Foundations ✅
-
-* Project setup
-* Utility functions
-* Dataset inspection
-
-## Phase 2 — Data Engineering
-
-* Import Championship datasets
-* Data cleaning
-* Missing value handling
-* Column standardization
-* Validation pipeline
-
-## Phase 3 — Football Analytics
-
-* Player performance metrics
-* Team analysis
-* Per-90 statistics
-* Expected Goals (xG)
-* Expected Assists (xA)
-
-## Phase 4 — Visualization
-
-* Performance dashboards
-* Team comparisons
-* Player comparisons
-* Statistical graphics
-
-## Phase 5 — Reporting
-
-* Analytical reports
-* Match summaries
-* Scouting insights
-* Portfolio case studies
-
----
-
-# ▶️ Getting Started
-
-Clone the repository:
-
-```bash
-git clone <repository-url>
-```
-
-Install dependencies:
+## Running it
 
 ```bash
 pip install -r requirements.txt
+python scripts/scrape_fbref.py     # pulls fresh data from FBref
+python scripts/analyse_data.py     # inspects the pulled dataset
 ```
 
-Run the dataset inspection workflow:
+## Roadmap
 
-```bash
-python inspect_dataset.py
-```
-
----
-
-# 📚 Learning Journey
-
-This repository serves as a public record of my progression into football analytics engineering. Each commit represents a genuine stage of learning, with an emphasis on writing clean, reusable, and maintainable code rather than simply completing tutorials.
-
-The long-term objective is to develop a production-style analytics pipeline capable of supporting meaningful football analysis while demonstrating professional software engineering practices.
-
----
-
-# 📌 Future Enhancements
-
-* Automated data ingestion
-* Feature engineering modules
-* Statistical modelling
-* Interactive dashboards
-* Match prediction experiments
-* Player scouting workflows
-* Performance reporting
-
----
+- [ ] Consolidate scripts into `championship_analysis.py`, structured
+      as Football Question → Python → Insight per section
+- [ ] Expand SQL scouting queries
+- [ ] Publish first full write-up (LinkedIn/Substack)
+- [ ] Passing-network graph module (players as nodes, pass frequency as
+      edges) as a natural extension once the core notebook is done
 
 ## Author
 
-**Blossom**
-
-Aspiring Football Analytics Engineer | Computer Science Student | Building reusable analytics systems with Python, data engineering principles, and football data.
+**Blossom** — CS student building a football analytics portfolio in
+public, documenting real progress including the parts that need rework.
