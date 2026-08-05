@@ -2,7 +2,7 @@
 import pandas as pd
 
 #import my utility function to clean headers
-from football_utils import combine_fbref_headers
+from fbref_utils import combine_fbref_headers
 
 # read in the datasets to this file as 'raw' to this file
 raw_player_stats = pd.read_csv("data/championship_player_stats_2024_25.csv",
