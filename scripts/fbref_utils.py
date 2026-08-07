@@ -260,3 +260,78 @@ def team_report(players, goals, assists, passes):
         f"and {highest_contribution} total contribution.",
     ]
     return "\n".join(report_lines)
+
+def count(data):
+    counter = 0
+    for value in data:
+        counter += 1
+    return counter
+
+def calculate_mean(data):
+    total = 0
+    if len(data) == 0:
+       raise ValueError("Cannot calculate mean of an empty dataset.")
+    for value in data:
+        total += value
+    return total / count(data)
+
+def calculate_median(data):
+    if count(data) == 0:
+        raise ValueError("Cannot calculate mean of an empty dataset.")
+    sorted_data = sorted(data)
+    middle = count(data)//2
+    return sorted_data[middle]
+
+def calculate_range(data):
+    if count(data) == 0:
+        raise ValueError("Cannot calculate mean of an empty dataset.")
+    maximum = max(data)
+    minimum = min(data)
+    return maximum - minimum
+
+def calculate_variance(data):
+    if count(data) == 0:
+       raise ValueError("Cannot calculate mean of an empty dataset.")
+    mean = calculate_mean(data)
+    total = 0
+    for value in data:
+        difference = value - mean
+        total += difference ** 2
+    return total / count(data)
+
+def calculate_standard_deviation(data):
+    if count(data) == 0:
+        raise ValueError("Cannot calculate mean of an empty dataset.")
+    variance = calculate_variance(data)
+    return variance ** 0.5
+
+def find_min(data):
+    minimum = data[0]
+    for value in data:
+        if value < minimum:
+            minimum = value
+    return minimum
+
+def find_max(data):
+    maximum = data[0]
+    for value in data:
+        if value > maximum:
+            maximum = value
+    return maximum
+
+def calculate_z_score(value, data):
+    mean = calculate_mean(data)
+    standard_deviation = calculate_standard_deviation(data)
+    if standard_deviation == 0:
+        raise ValueError('Cannot calculate Z Score when standard deviation equals 0')
+    difference = value - mean
+    return difference / standard_deviation
+
+def add_goal_z_score(df):
+    _require_columns(df, ['gls'])
+    df['goal_z_score'] = [
+        calculate_z_score(goal, df['gls'])
+        for goal in df['gls']]
+
+    return df
+

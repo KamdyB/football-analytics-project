@@ -49,7 +49,7 @@ that decision happen by accident.**
 
 - Removed duplicate calculation logic — `add_*(df)` functions now call the
   underlying scalar functions instead of re-implementing the same math.
-- Fixed `add_goal_involvement_percentage` silently missing a `return`
+- Fixed `add_goal_involvement_percentage` asilently missing a `return`
   statement.
 - `team_report()` rewritten to return a properly formatted string instead
   of a malformed mixed list of strings and numbers.
